@@ -1,0 +1,176 @@
+2026-08-30T09:35:55.249Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:35:55.332Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:35:55.423Z connection ok, expires_at: | 2026-08-30T10:35:43.607+00:00
+2026-08-30T09:35:55.468Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:40:56.523Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:40:56.609Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:40:56.702Z connection ok, expires_at: | 2026-08-30T10:35:43.607+00:00
+2026-08-30T09:40:56.752Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:45:06.388Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:45:06.480Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:45:06.591Z connection ok, expires_at: | 2026-08-30T10:35:43.607+00:00
+2026-08-30T09:45:06.637Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:45:11.015Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:45:11.143Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:45:11.309Z connection ok, expires_at: | 2026-08-30T10:45:09.837+00:00
+2026-08-30T09:45:11.368Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:45:33.632Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:45:33.714Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:45:33.786Z connection ok, expires_at: | 2026-08-30T10:45:22.816+00:00
+2026-08-30T09:45:33.843Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:46:02.358Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:46:02.447Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:46:02.573Z connection ok, expires_at: | 2026-08-30T10:45:22.816+00:00
+2026-08-30T09:46:02.617Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:46:32.891Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:46:32.966Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:46:33.061Z connection ok, expires_at: | 2026-08-30T10:45:22.816+00:00
+2026-08-30T09:46:33.121Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:46:39.612Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:46:39.690Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:46:39.763Z connection ok, expires_at: | 2026-08-30T10:45:22.816+00:00
+2026-08-30T09:46:39.807Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:47:26.850Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:47:26.926Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:47:27.027Z connection ok, expires_at: | 2026-08-30T10:45:22.816+00:00
+2026-08-30T09:47:27.072Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:53:52.590Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:53:52.729Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:53:52.814Z connection ok, expires_at: | 2026-08-30T10:53:45.482+00:00
+2026-08-30T09:53:52.862Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:56:24.323Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:56:24.405Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:56:24.508Z connection ok, expires_at: | 2026-08-30T10:53:45.482+00:00
+2026-08-30T09:56:24.592Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:58:20.106Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:58:20.189Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:58:20.263Z connection ok, expires_at: | 2026-08-30T10:58:15.06+00:00
+2026-08-30T09:58:20.313Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:58:44.473Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:58:44.549Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:58:44.631Z connection ok, expires_at: | 2026-08-30T10:58:35.701+00:00
+2026-08-30T09:58:44.684Z FAIL: spotify save | Error: Failed to save album to Spotify library (403)
+2026-08-30T09:59:33.639Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T09:59:33.720Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T09:59:33.850Z connection ok, expires_at: | 2026-08-30T10:58:35.701+00:00
+2026-08-30T09:59:33.932Z FAIL: spotify save | Error: Failed to save track to Spotify library (403)
+2026-08-30T10:11:43.512Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:11:43.595Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:11:43.824Z connection ok, expires_at: | 2026-08-30T10:58:35.701+00:00
+2026-08-30T10:11:43.876Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:12:13.282Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:12:13.365Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:12:13.444Z connection ok, expires_at: | 2026-08-30T11:12:04.567+00:00
+2026-08-30T10:12:13.517Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:13:32.895Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:13:32.985Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:13:33.067Z connection ok, expires_at: | 2026-08-30T11:12:04.567+00:00
+2026-08-30T10:13:33.121Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:17:08.411Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:17:08.495Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:17:08.577Z connection ok, expires_at: | 2026-08-30T11:17:00.533+00:00
+2026-08-30T10:17:08.621Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:18:37.309Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:18:37.404Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:18:37.572Z connection ok, expires_at: | 2026-08-30T11:17:00.533+00:00
+2026-08-30T10:18:37.619Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:26:51.257Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:26:51.341Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:26:51.528Z connection ok, expires_at: | 2026-08-30T11:17:00.533+00:00
+2026-08-30T10:26:51.572Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:27:12.945Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:27:13.030Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:27:13.106Z connection ok, expires_at: | 2026-08-30T11:27:05.517+00:00
+2026-08-30T10:27:13.164Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:27:29.009Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:27:29.091Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:27:29.183Z connection ok, expires_at: | 2026-08-30T11:27:05.517+00:00
+2026-08-30T10:27:29.227Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:31:42.291Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:31:42.373Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:31:42.456Z connection ok, expires_at: | 2026-08-30T11:31:34.535+00:00
+2026-08-30T10:31:42.503Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:31:58.851Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:31:58.924Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:31:59.002Z connection ok, expires_at: | 2026-08-30T11:31:53.239+00:00
+2026-08-30T10:31:59.047Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:32:01.918Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:32:02.005Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:32:02.082Z connection ok, expires_at: | 2026-08-30T11:31:53.239+00:00
+2026-08-30T10:32:02.123Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:32:09.417Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:32:09.503Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:32:09.577Z connection ok, expires_at: | 2026-08-30T11:31:53.239+00:00
+2026-08-30T10:32:09.633Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:34:23.091Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:34:23.176Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:34:23.254Z connection ok, expires_at: | 2026-08-30T11:34:15.369+00:00
+2026-08-30T10:34:23.299Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:37:15.120Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:37:15.203Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:37:15.306Z connection ok, expires_at: | 2026-08-30T11:37:06+00:00
+2026-08-30T10:37:15.354Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:44:32.095Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:44:32.174Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:44:32.327Z connection ok, expires_at: | 2026-08-30T11:37:06+00:00
+2026-08-30T10:44:32.369Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:44:45.742Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:44:45.814Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:44:45.930Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T10:44:45.975Z FAIL: spotify save | status: | 403 | msg: | Failed to save album to Spotify library (403) | body: | {"error": {"status": 403, "message": "Forbidden" } }
+2026-08-30T10:49:04.717Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:49:04.820Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:49:04.938Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T10:49:05.258Z NOT in library: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T10:54:48.562Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:54:48.699Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:54:48.807Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T10:54:49.070Z NOT in library: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T10:55:01.890Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:55:01.964Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:55:02.053Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T10:55:02.373Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T10:55:32.353Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T10:55:32.440Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T10:55:32.507Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T10:55:32.787Z in library OK: | 65gUW0rI0yrnYpZUSS4Us2
+2026-08-30T11:06:11.642Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T11:06:11.745Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T11:06:11.855Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T11:06:12.089Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T11:18:02.445Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T11:18:02.548Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T11:18:02.799Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T11:18:03.025Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T12:46:05.732Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T12:46:05.809Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T12:46:05.984Z connection ok, expires_at: | 2026-08-30T11:44:39.249+00:00
+2026-08-30T12:46:06.508Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T12:48:42.010Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T12:48:42.100Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T12:48:42.291Z connection ok, expires_at: | 2026-08-30T13:46:06.039+00:00
+2026-08-30T12:48:42.533Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T12:50:30.955Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T12:50:31.031Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T12:50:31.129Z connection ok, expires_at: | 2026-08-30T13:46:06.039+00:00
+2026-08-30T12:50:31.369Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T12:52:44.388Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T12:52:44.483Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T12:52:44.621Z connection ok, expires_at: | 2026-08-30T13:46:06.039+00:00
+2026-08-30T12:52:44.965Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T13:05:57.642Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T13:05:57.727Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T13:05:57.816Z connection ok, expires_at: | 2026-08-30T13:46:06.039+00:00
+2026-08-30T13:05:58.043Z in library OK: | 2QVvlMjlbV445e9a5y2obD
+2026-08-30T13:13:16.726Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T13:13:16.812Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T13:13:16.903Z connection ok, expires_at: | 2026-08-30T13:46:06.039+00:00
+2026-08-30T13:13:17.171Z in library OK: | 7HAGBrolfsdX5RVRNl5SdQ
+2026-08-30T13:13:49.754Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-30T13:13:49.847Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-30T13:13:49.938Z connection ok, expires_at: | 2026-08-30T13:46:06.039+00:00
+2026-08-30T13:13:50.203Z in library OK: | 3LDuV7uzY3d1YJWmjrc4Ql
+2026-08-31T04:30:34.919Z POST recibido | host: | 127.0.0.1:3000 | | content-type: | application/json
+2026-08-31T04:30:35.010Z getUser resultado: | 11b228dd-081c-4523-85a9-c2721d804495
+2026-08-31T04:30:35.161Z connection ok, expires_at: | 2026-08-30T13:46:06.039+00:00
+2026-08-31T04:30:35.573Z in library OK: | 6cmOLNiylju3S0GhKG4s72

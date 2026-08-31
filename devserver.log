@@ -1,0 +1,21 @@
+
+> digivin@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.24 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://172.24.144.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Compiled middleware in 260ms
+ ✓ Ready in 1962ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.4s
+ GET / 200 in 2850ms
+ ✓ Compiled /collection in 345ms
+ GET /collection 200 in 439ms
+ ✓ Compiled /connect in 175ms
+ GET /connect 200 in 260ms
+ ✓ Compiled /_not-found/page in 178ms
+ GET /login 404 in 278ms

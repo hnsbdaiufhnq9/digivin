@@ -1,0 +1,2077 @@
+
+> digivin@0.1.0 dev
+> next dev --turbopack -H 127.0.0.1
+
+   ▲ Next.js 15.5.24 (Turbopack)
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Compiled middleware in 181ms
+ ✓ Ready in 1301ms
+ ○ Compiling /connect ...
+ ✓ Compiled /connect in 1879ms
+ GET /connect?error=spotify_auth_failed 200 in 2223ms
+ GET /connect?error=spotify_auth_failed 200 in 113ms
+ ✓ Compiled /api/auth/spotify in 170ms
+ GET /api/auth/spotify 307 in 482ms
+ ✓ Compiled /api/auth/spotify/callback in 206ms
+ GET /api/auth/spotify/callback?code=AQCsAqbeyTpN_hiC5ZMS1BweUuonRFpRmJanp9W8wPxEPDDd2VqAIFQr9aBWxPKG7gQeyfJs5sphov1JMed-JqXGHaZ93Bz8a2ifcKQ321ML58lW9Nif3Nrs1IR8AtODrPZCAnLIyH6kVADOMIBvQ_AM6tnbbwuJz-E4MtuZqIpen8AK8Mgq8xGgcihf4mTNTpnJtwRVgq4AJdOW7atiTbjI9z8ncIKujhti4PxM2kAdMDH9BRrSe_cVFsKuisXqrDtiMH6FesEGP9E4USus8EYDDNjXrLAu-sqLlUMnISi1o26dmrXQAgp72CVTs7I84A&state=5a436be0-b90d-4a75-8f4b-1a15448f2666 307 in 503ms
+ GET /connect?error=spotify_auth_failed 200 in 104ms
+ GET /api/auth/spotify 307 in 304ms
+ GET /api/auth/spotify/callback?code=AQAsadV1JAscV6yE2eY16u_GE0FzDSnuW8mLbUndE8L_VIvm5Ag2mPvdHpI72B023Fnl7fzVd3_KkwpE2rvjOduVy-ro4wFB50Cfck0DJptH-RfC7pqMctZYG7cUz2jCh6YU2vPNSxVEXfe6j8qyU4-gek8noHYNZzEl-GOU-UnemnfCaIBm4z7wt2-6XWLd4hguO9dD4xWNGgDLj5hJv1QLCjAJL4b3g9Gu-bf_uhCyJJgTAExEvSOkz27aZegvDcIbKks1LJ0hrBzVWQG2L8rjOr6zlPTg1riNWB2-CXYV0dhJoMxk9h2clj3u37ZiNA&state=5cb810cc-ad83-4379-8d2c-f7332e03312f 307 in 274ms
+ GET /connect?error=spotify_auth_failed 200 in 104ms
+ GET /api/auth/spotify 307 in 286ms
+ GET /api/auth/spotify/callback?code=AQDrF7pO_F_a_3rerSpCNlaOvYZ6TTWdsG2z9LgXbzP63qiC9zZfrABzk2FTSOlABb-pE2PYS-41oWigoPxrnbocRevovKGaQmQK-wqAJlET0trHIfhuXAoNSDrIIXWSKXsldSJE48iocg-PlxGIk2s7AvT63smj3t9Ly-zm3Wn0b9VngGJQ50wNhqKbUHcVuCMjbMiqTrPziFoQBpN8CVItUEwph8g12no31DVl1Hmj-xwSLLtUYA9WX4YVdJqCNShD5bWv9NfW3X_IwVStMGLPThMlOK2zl7gBAhOIrjzBX6Trjus1NUWSeOp_iEsL1g&state=ed6aed61-f898-4e23-99ac-eb9ff3af223f 307 in 286ms
+ GET /connect?error=spotify_auth_failed 200 in 106ms
+ ○ Compiling / ...
+ ✓ Compiled / in 561ms
+ GET / 200 in 685ms
+ GET /connect 200 in 133ms
+ ✓ Compiled /packs in 388ms
+ GET /packs 200 in 504ms
+ GET /connect?error=spotify_auth_failed 200 in 109ms
+ GET /connect 200 in 126ms
+ GET /connect?error=spotify_auth_failed 200 in 103ms
+ GET /api/auth/spotify 307 in 295ms
+ GET /api/auth/spotify/callback?code=AQBmfgbTku0f-0dOdHKnTGDIQw6TZoAcCKFmuuVttfeTIaALkr1M7Yb-UBO9HeVOYDIHR36hSSE69EVaB4s6yQYopsZfEDS1PPWgGN7ByOqdJZ3hg3IMdZJojg85e04jvzjdqkIZE7YJTJdCYEXg4mNVP3jW0CebLyfp7SxDn-fKc8QQi6QMSFdOiTP94jJttaXCGu9NGqVXdQYyMYeFJRf4sN95GTlp1kJdsb63ruJ_6-qGxi_lehdHm3qxCBhNT5TMAoiErhljxIBHJjMYScU2Kf3Gz-zhrrzuseWkKqxIlGnZdNacnrsi-RAy1HDnTg&state=12cbfeef-0d5e-4bd8-bca2-2465c7678545 307 in 283ms
+ GET /connect?error=spotify_auth_failed 200 in 100ms
+ GET / 200 in 112ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /api/auth/spotify 307 in 277ms
+ GET /api/auth/spotify/callback?code=AQD7EZfVQkBqTiio1jsHAVIou-k1UpTO7aPC_iB4G_qRMPfxTh5bVJ2KE863lGOrNpZxOYZ8RcA_Ru2wdzRpR6_BIhDOrlihPd_8miQGch7q7CZFQGxf4CcCewO_PlKkVA2n48oCexLEhnnoWQznWLU1J3QyAOe2YmDMS9Iicxg7O2okQhIzM_wK7J4Lo9QQ-Lr6FB-nQ0EEiDDRnrg2imF4CDEeRI0gdverkY2k8JMfVUbllnUP3NIH1-tQzivTWzM4BA7C1e_MkCnEqQwScSWWbcpWP7ldP-y8A6zDb0JVXo4h7lzOis7_mPAW0lEQaw&state=4f65affb-b629-4c1f-b9ef-da8db1152a86 307 in 394ms
+ GET /connect?connected=spotify 200 in 125ms
+ GET /api/auth/spotify 307 in 281ms
+ GET /api/auth/spotify/callback?code=AQAT2Uq3nKIR5T-sdi1FlnFJf7IRSKxwyNbgamkqPRtvDOMjgwZsobqpZaJ6jGjAsH9UonOIuXnITA9LWH79PaifDE6kJnVdjiuyU5vcMWoPdrJR9RvHyfUkG-1WZoY9U3GUsikBXMpew0yv79_T14ljkx7cwboktO8fMoOnBtlHR3C57B-rdOupMJNxRZouju3wMLuUcy7PVAmkKL36rmOVI8GLqcldGD7lE0V5KIOfBhtsz31_EuSNlh5b-ykEN3slrULuqjhRUUD_U-xcuehKBZWaxbJtMHdyxHvWxez6jEdANe86pwRaTRxdefGJgA&state=44fb161e-e730-4c8e-b790-6186739d8979 307 in 272ms
+ GET /connect?error=spotify_auth_failed 200 in 102ms
+ GET /api/auth/spotify 307 in 275ms
+ GET /connect?error=spotify_auth_failed 200 in 111ms
+ GET /api/auth/spotify 307 in 272ms
+ GET /api/auth/spotify/callback?code=AQA8fDp2u3tRUddCsJVgqzSbU89euzV42A5DII7ltzfXJ-_P7v0x9GjXER6K2RDkwr7iaP7tZEAYnVYPZEN1yn2SzlECiAS6Lf7nmMb8GqgQeXeMZAsIMUB6puyFSY0fyoswzczZWARKAjmYBYXW4QeQ-sHwr1JcU1107Q0RqwPFDa7mrdkcEnQlgUWAE4pzwalO_2Dmn_-pMtK-YLIAxoK400hroB8BO_tKn4ADh8G4RubmDf3qO_66zpOwD5ZHkFGsB3K4DrkUgFDvuXlEx5kyt1rX_w8kwoy02WV5GOFN8JKr0ruv-CKOaJr9FG9lIA&state=70c8bd6b-c49b-4357-858f-8e23af8d565d 307 in 283ms
+ GET /connect?error=spotify_auth_failed 200 in 104ms
+ GET /api/auth/spotify 307 in 288ms
+[spotify callback] Validación fallida → code: presente, state: presente, cookie state: presente, host: 127.0.0.1:3000, spotify_error: ninguno → MISMATCH de state (cookie de otro host o expirada)
+ GET /api/auth/spotify/callback?code=AQAtvua6DkuHJ22xo7QNU3F1f_G1Lqdq3qpQEndGFUSMeu5vJ0aAooHjh-dUgFDf736JmWoXa2Evwg6PlX4mf-WpORUc9sCM26t-lJkJQciJpaOUQWdGUJtrGHN-vukyZAmGqXK2WfDpz7AxWHpyzszl98FRgALVEIpnsTSYJSDK3FQa6sXGmo0mYuxITEo9EzJehuwT4LK74rkbY-2HDGWVxcbkSUJ84vbicm-hei7GfV9B0zoalAKCO_ObCyXfgbJhVard5Qe-uxh5OPKEjR0bHAt4-btrghFGeH8-NlbvdRra-pdR-JRVNGOU7HIYrA&state=3db94e7d-c1a2-4ec0-80d0-756fa14de3e5 307 in 338ms
+ GET /connect?error=spotify_state_mismatch 200 in 121ms
+ GET /api/auth/spotify 307 in 278ms
+[spotify callback] Validación fallida → code: presente, state: presente, cookie state: presente, host: 127.0.0.1:3000, spotify_error: ninguno → MISMATCH de state (cookie de otro host o expirada)
+ GET /api/auth/spotify/callback?code=AQADfX2KAQ-iqHSIN1G-jfIiXMbdMmJyJUUwObMcGY4yG-SZfY5bkMswF4O1wLqGdEja-M_12yI9rMZxRDtZFawlE6ObEPv6Tp-7tFJWY4tAb6_DYMYcPcefEOahkW_qtLdnA2sywsVG2F8gw1xKtRhizonn5NztaMUu_1orSLaqDPNqI69xKzNLiUOGjlyHMMYemswdOxxz6DygdW4uC0GpIMxnrEf262FqZQiW37yYtbTAmW6_aUpHLoI2n9rz2NiWV2h3ViBA8fLZBHN9Tys2xOr3ZK1qUEIJPUXXS56lNMNkcw4fmUgz3IK5ZNPcmQ&state=deae454f-d8fc-4a7c-b873-1a3aea1ad765 307 in 286ms
+ GET /connect?error=spotify_state_mismatch 200 in 102ms
+ ✓ Compiled in 134ms
+ ✓ Compiled /connect in 50ms
+ GET /connect?error=spotify_state_mismatch 200 in 159ms
+ GET / 200 in 113ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /api/auth/spotify 307 in 289ms
+[spotify callback] Validación fallida → code: presente, state: presente, cookie state: presente, host: 127.0.0.1:3000, spotify_error: ninguno → MISMATCH de state (cookie de otro host o expirada)
+ GET /api/auth/spotify/callback?code=AQDaqCthci7lNfEqP4Vv7BbieUKKY8CYNshCCLhxCI9vdLGgFeJlIOVp1-jD4znGU4lzVb8mq1cSvXKdF7Et-YNPOUDioJ-c8zZiyC_mn5AyVbJQIkRBqvMdui8cgTxHw2Xpz-LY-1OobIeO_kNQL8xEvOPWrUFnyTxgvOGNO8UaO9y7dGk6GC28sMI-aIFaLMLxhtk0IY5Lg9Ig97qEnO5PaK5J4sVrMWWR9R37qUxnK5SVScv6eUFUjgg8FNghzrK5dbrETqmxK8R7holSzdSQCdaBqjjf77CQcembBZslR6YYFePcVjZbT0u7fJLdMg&state=4330f5ba-d64b-4c28-956e-99192fa965b4 307 in 290ms
+ GET /connect?error=spotify_state_mismatch 200 in 192ms
+ GET / 200 in 118ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /api/auth/spotify 307 in 285ms
+ GET /api/auth/spotify/callback?code=AQALWdAfHetONaGkoaZPNCOEmiIhjLNpvqnOlb-HSLC8q6LqzBP1aaa38bvcjITMQyY6eEB4tPZ22kWayFIQXbYVifdzoKJqAkKVoF3aNu3RRNinkueess6O8D0MUWXy_zJ0hj3iuF8hKF1yt_BrRrlEOcYKFM6Xt-uFsD5xOqXichX4rxiQadaMbJ0f4De5686U2rcYG5Fr9i8FiBpdBKroZqDbiBzY-X35ethiEeIeBzWo0NQq9qwUTdL6p7Ew6pnQySRKgeVbcN4tneCSFufjO0MkIYCzTQGMOvUR4n0SaQk75PSgs8CutAj22f7kGQ&state=929feef3-4129-4575-bd1f-00ad2473b1c0 307 in 377ms
+ GET /connect?connected=spotify 200 in 106ms
+ GET /packs 200 in 76ms
+[spotify callback] Spotify devolvió error: access_denied
+[spotify callback] Validación fallida → code: AUSENTE, state: presente, cookie state: AUSENTE, host: 127.0.0.1:3000, spotify_error: access_denied
+ GET /api/auth/spotify/callback?error=access_denied&state=abc 307 in 294ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ✓ Compiled /api/vinyls/[id]/open in 120ms
+ POST /api/vinyls/demo-vinyl-1/open 401 in 1032ms
+ GET / 200 in 84ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /connect 200 in 98ms
+ GET /connect 200 in 119ms
+ GET /api/auth/spotify 307 in 281ms
+[spotify callback] Validación fallida → code: presente, state: presente, cookie state: presente, host: 127.0.0.1:3000, spotify_error: ninguno → MISMATCH de state (cookie de otro host o expirada)
+ GET /api/auth/spotify/callback?code=AQBbuedG7ISS7l3xWl1QWkhKkCjjquaOcVMdCuBzr1Kb-hMwMTd__cgPZEnZUExEUiLJCUovDVrgqDQJ0owFdyi76k4BNhVDA8Ys8LteIbGTsKILu6JGgGm3Swl6vcfAnDWaLiGZmHN9ZfwAJPBA9lkGzEpy-dvEPRdSZWoudmJzc_KG4rxEdWeq0m2DKuzwy22IPTrrINJmqkGtxstqBvJ2_sA5I9WBd9ROXH8zgjfkCLlj45ORos7v4mPFCeEAn7qxEsLosKgL_oTSelPA8s0CVuQjOTffmTmWCcxFYDooik1n-5j3_x-7VHgGBxe9_A&state=e248b06b-0933-40e7-817a-101f7c84ae55 307 in 290ms
+ GET /connect?error=spotify_state_mismatch 200 in 121ms
+[spotify callback] Spotify devolvió error: access_denied
+[spotify callback] Validación fallida → code: AUSENTE, state: presente, cookie state: AUSENTE, host: 127.0.0.1:3000, spotify_error: access_denied
+ GET /api/auth/spotify/callback?error=access_denied&state=abc 307 in 284ms
+[spotify callback] Spotify devolvió error: access_denied
+[spotify callback] Validación fallida → code: AUSENTE, state: presente, cookie state: AUSENTE, host: localhost:3000, spotify_error: access_denied
+ GET /api/auth/spotify/callback?error=access_denied&state=abc 307 in 292ms
+ GET /api/auth/spotify 307 in 336ms
+ GET /api/auth/spotify 307 in 306ms
+[spotify callback] Tokens obtenidos, pero no hay sesión de Supabase Auth (user null). La conexión NO se guardó. Haz login en la app antes de conectar Spotify.
+ GET /api/auth/spotify/callback?code=AQDzhH5cL-TuBocbIgIsMRBZwL9Qg4o3cdqk2hsm7xBx0EPBKKPXGCpG-fmWFBRvwI2BaXr1v2Qhsf_UpEaT-pCHrNouNxzbLV6IFNk2ZKqcZjlbaUqaWDLzOHkrhesMVKPV1z67BI1dKjdhWkg3NxzMi_s2YxJ6UntsxFCnKC5df5DGsWazzMiDh-C6XUEYIldNfD-vgazuv-Ox_1jXOyowZynFT8s0J5MD1bEiVXmHZPqIwGticdtkb0H-wmId4fAwdgyk8IXTS8CH--ZBB67coJ-IjPLsV_Mddw3T-c9tFK3NclYAbIUB0wp3Fh15ZA&state=16380469-5bf4-438f-8360-beb43f41a4db 307 in 475ms
+ GET /connect?connected=spotify 200 in 110ms
+ GET /api/auth/spotify 307 in 292ms
+[spotify callback] Tokens obtenidos, pero no hay sesión de Supabase Auth (user null). La conexión NO se guardó. Haz login en la app antes de conectar Spotify.
+ GET /api/auth/spotify/callback?code=AQCB7-ceSld6BhT5oUT8fNgN_8n3XtAwzmWFHfrAMhJQkz1CktXjeOAjuoEtRncK27aA_GWbKSrBEUM8W4-LqfQ1C3N2ADs5fiTBsB27fxT0AjqvRILH1E9TmoxqEbo9E5wv4aEkyi3Eoz0P1lwictM-Nz9NaU7Hx7VdcYlKdZp-s745S8h1dQ0bF5_g0H_LMNWqSstY8HAPczanZIL3taaIA3zUimgyBLs-rMQ7tECxUt2JnUutwARuC8AABNaoo3HU03Tn-lPUxVyI1uemtfAqqDxqf56X0cxLB3g0uBP4ysZCa87dhdd-b1okt-7n9g&state=4b64d765-2df2-4433-bc7b-f5d00a6786ba 307 in 410ms
+ GET /connect?connected=spotify 200 in 105ms
+ GET /api/auth/spotify 307 in 295ms
+ GET /packs 200 in 78ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ GET /api/auth/spotify 307 in 300ms
+[spotify callback] Spotify devolvió error: access_denied
+[spotify callback] Validación fallida → code: AUSENTE, state: presente, cookie state: AUSENTE, host: 127.0.0.1:3000, spotify_error: access_denied
+ GET /api/auth/spotify/callback?error=access_denied&state=abc 307 in 296ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 401 in 323ms
+ GET /connect 200 in 79ms
+ GET /api/auth/spotify 307 in 305ms
+[spotify callback] Tokens obtenidos, pero no hay sesión de Supabase Auth (user null). La conexión NO se guardó. Haz login en la app antes de conectar Spotify.
+ GET /api/auth/spotify/callback?code=AQDD1pvZ0TmwpqpuQM1gI912qm_zyNTjlMYKXv4gt7e5hvzFAnnj8jusPGLVraNjWu10EjBXhAtlC1wq365VhpdvrjIHjbg1eteuLmr4XfuBdmiIXf_Cn8oyk3WwpBhYBvS-U9nkjf7z4EA3ejnz5Tfyc_ahHzqeMK8gx50rHAw-EsaVQp7jMB4NAlhakvVQs14AIOMOLYfxu_-6mWESvPwI08YRVkJxzszjpGPTBAr4Ek9wRiEj91zam9nxbN3o0IIF95dLacTC8lsZPIOmR9Vegf3QMj1CF3sJemiFQIg-rzJJhmPn2pgrY4kUJZl6Dg&state=dc4a19ed-e811-412e-b5d0-6d17d98b68b3 307 in 383ms
+ GET /connect?connected=spotify 200 in 112ms
+ ✓ Compiled /collection in 308ms
+ GET /collection 200 in 372ms
+ GET / 200 in 82ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /packs 200 in 88ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 401 in 300ms
+ GET /connect 200 in 110ms
+ GET /api/auth/spotify 307 in 276ms
+[spotify callback] Tokens obtenidos, pero no hay sesión de Supabase Auth (user null). La conexión NO se guardó. Haz login en la app antes de conectar Spotify.
+ GET /api/auth/spotify/callback?code=AQBm81sOIM59cyq60TAHeNRCVng9Poa3lKHYs8g0pG89wlMJHZQ2jKrDZWYuLTgeyZ9QYNclvvp9S1ixzMBQeIHrr7dzqFSf6ERqXGEcbFZQedq_eIPKUuWLhVfecUas8bpeumBO9Tir0aXhoBCqX5TE6YUDVkvZpxLQbq4Duwfx1pJ81FWGmcW_2ozaNBoe_VXKt4rUQdX1CroOU-_Aw0nFuf9yiK8xl4LL2gKah160SfDtUD3FNxZ9h8051FkTM6BZLg9ghA3Su5eWKDFsjxyHRyPqYtMUj6X7nPkG7X_gQZC380gAEpuSATnUnQMuZw&state=9fedebd4-867d-47df-ae3b-0bb38f8f62d8 307 in 412ms
+ GET /connect?connected=spotify 200 in 114ms
+ GET /collection 200 in 79ms
+ GET /packs 200 in 75ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 401 in 302ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ GET / 200 in 76ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /collection 200 in 79ms
+ GET /packs 200 in 71ms
+ GET / 200 in 104ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /packs 200 in 80ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 401 in 334ms
+ GET /connect 200 in 74ms
+ GET /packs 200 in 77ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 401 in 303ms
+ GET /connect 200 in 85ms
+ GET /connect 200 in 112ms
+ GET /packs 200 in 76ms
+ GET /collection 200 in 94ms
+ GET / 200 in 77ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ✓ Compiled middleware in 1ms
+ GET / 200 in 141ms
+ GET / 200 in 111ms
+ GET / 200 in 212ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ✓ Compiled middleware in 1ms
+ GET / 200 in 134ms
+ GET / 200 in 115ms
+ GET / 200 in 209ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /connect 200 in 89ms
+ GET /api/auth/spotify 307 in 312ms
+[spotify callback] Tokens obtenidos, pero no hay sesión de Supabase Auth (user null). La conexión NO se guardó. Haz login en la app antes de conectar Spotify.
+ GET /api/auth/spotify/callback?code=AQDYsd43CBzJ2d1Auw-_LlfIJKyxwumdvNc4Q3hoTGGwDKVQDyfaNxr9lQxVoYBVfGvJh7Xg9_Km8WJ9uQgAMZOe9PVv97kFCLbEGNCmN7eU4NVbIiqZTbZFRXmFHad19Xi799tJdUg8xOIHwwHJHT7ksp_OfoVJlkmwHELDewDc4To_T8KfuTZSi_lIVIBMI3bQXAdMZCurupWApJdi7NdV8oX_N-bSeFpXWLFosQ7gYJvIGwiMS4iBbNbJFPxFTw5XLZQTH4cJ_aRmjDYShlaS-ivhhVqS8fqNN41en_tg5vT6GItv3K2aJWo0yQLqDTXCC1aPk1OvGyMdhUYx0LkeyadQGg&state=8a6194cd-f050-4e5e-b18b-af829db49818&ubi=CAIQvJO%2BjYU0GiRkYmFhMmFlZi04ODA2LTRmMjAtYjNhOC03ZTQ2OTAwNmY5OTYiJDU0YWQwZDk5LThmZGUtNDIzZC1iMTE5LWM1OTE0NGFkNTMzOTokNTRhZDBkOTktOGZkZS00MjNkLWIxMTktYzU5MTQ0YWQ1MzM5QhB1c2VyX2ludGVyYWN0aW9uSiQyY2NkOGRlYy0zZmRhLTQ0NzktOTA5Zi1jMGE0YjNkNTc4YzNQAA%3D%3D 307 in 422ms
+ GET /connect?connected=spotify 200 in 95ms
+ GET /collection 200 in 97ms
+ GET / 200 in 78ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /packs 200 in 86ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 401 in 353ms
+ GET /connect 200 in 78ms
+ ✓ Compiled in 97ms
+ ✓ Compiled in 144ms
+ GET /connect 200 in 104ms
+ ✓ Compiled in 131ms
+ ✓ Compiled middleware in 1ms
+ GET /connect 200 in 160ms
+ GET /connect 200 in 92ms
+ ✓ Compiled in 80ms
+ ✓ Compiled in 125ms
+ ✓ Compiled /search in 337ms
+ GET /search 200 in 443ms
+ ✓ Compiled middleware in 1ms
+ GET /search 200 in 149ms
+ GET /search 200 in 91ms
+ ✓ Compiled /api/search in 102ms
+ GET /api/search?q=lola 200 in 1007ms
+ ✓ Compiled in 141ms
+ GET /api/search?q=lola 200 in 596ms
+ GET /api/search?q=lola 200 in 579ms
+ GET /search 200 in 346ms
+ GET /api/search?q=lolaa 200 in 862ms
+ ✓ Compiled /claim in 371ms
+ GET /claim 200 in 579ms
+ GET /api/search?q=currents 200 in 713ms
+ GET /api/search?q=lola 200 in 818ms
+ GET /api/search?q=lol 200 in 742ms
+ GET /api/search?q=lola 200 in 627ms
+ ✓ Compiled /api/library/save in 125ms
+ POST /api/library/save 401 in 453ms
+ GET /api/search?q=blonde 200 in 664ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 104ms
+ POST /api/library/save 401 in 314ms
+ GET /search 200 in 79ms
+ GET /api/search?q=lol 200 in 588ms
+ GET /api/search?q=lola 200 in 616ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 104ms
+ POST /api/library/save 401 in 299ms
+ GET /connect 200 in 92ms
+ GET /api/auth/spotify 307 in 312ms
+[spotify callback] Tokens obtenidos, pero no hay sesión de Supabase Auth (user null). La conexión NO se guardó. Haz login en la app antes de conectar Spotify.
+ GET /api/auth/spotify/callback?code=AQAAjhLe0D0GnQovAxL7sh_hhaAbHKjv4H5oRwHz4F5b6nnNP6--DRoGnMcULhutk6V53mAMj-BAGHbid-PpKVUTnQ2cjQMg0yqJ5Z3qarDBIAciCrsxWVVPKZgMpEaifr1gIGVCbu_dcoeQerpBhT2QnK9BWdV4B6yKlvQUZ3tVvZBB8NzyAnCGhHMJxZobZ_1BQDPAyCVeEg2R9KeTGJ6UIqiHYGHCtjKxJpMmynFzpH9d_4i3qYWH2iTFweIC5OElTjq7VrgvE2ffnHWdonH3nPPtlrb6t5bEvHykTccIpH_BwqHLvQAZYVSqTAvxJ8cegroy_MvPMKKS9Y-Ul1V4k_RCMw&state=8827d543-1bfc-4384-99e8-2aef74eab13c 307 in 421ms
+ GET /connect?connected=spotify 200 in 107ms
+ GET /search 200 in 75ms
+ GET /api/search?q=blonde 200 in 676ms
+ GET /api/search?q=lol 200 in 610ms
+ GET /api/search?q=lola 200 in 710ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 108ms
+ POST /api/library/save 401 in 313ms
+ GET /search 200 in 96ms
+ GET / 200 in 95ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ✓ Compiled middleware in 3ms
+ GET / 200 in 149ms
+ GET / 200 in 87ms
+ GET /search 200 in 88ms
+ ✓ Compiled in 108ms
+ ✓ Compiled middleware in 1ms
+ GET /search 200 in 147ms
+ GET /search 200 in 131ms
+ GET /auth/callback 307 in 462ms
+ ✓ Compiled /login in 497ms
+ GET /login 200 in 731ms
+ GET /search 200 in 131ms
+ GET / 200 in 92ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /login 200 in 104ms
+ GET /auth/callback?code=d0fd66b1-b7ca-4211-a98f-67d3769562ab 307 in 508ms
+ GET / 200 in 134ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /api/auth/spotify 307 in 316ms
+ GET /api/auth/spotify/callback?code=AQAgm53qqRUgohfzggCajWDMQuFbuQ-L7XsBlUCKujQeGm9yKlD3hpFDfbThrADQWOTO5KVRixuUzr5zY7zZX8tKAj8cXiWoW-F7bHx0KZ-ottnc0CcbDAhS_X7NfQJdL_vk4orK-g3zCPluKZp0_7d8tn7OIPaRmRe2QXC4YNUNskiSML1CqDU_3Tf5F4tqpF_3RFJugYcABRnjPQNjgZ2LDHXavoY_76d6D2KpxcVJ5uVHQ0SViDSpZOitlrr6KP6HX-a5_7gp_qbfJR9IJCukVfz1vf9WN2-9pHBGNFWCXtlOSMPZTGXSVQ0Jrl58iUugQ_oSaUaFlPOrnJvmhCNOTj1UYQ&state=f341272b-096d-4d5b-b4af-d190ddd29d7b 307 in 851ms
+ GET /connect?connected=spotify 200 in 129ms
+ GET /search 200 in 80ms
+ GET /api/search?q=lol 200 in 817ms
+ GET /api/search?q=lola 200 in 634ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 146ms
+ POST /api/library/save 409 in 467ms
+ GET /api/auth/spotify 307 in 280ms
+ GET /api/auth/spotify/callback?code=AQAu3PWgNJMpkHXYrBvcoliXT8Zx68kI7m5EpIs5aTFsrCvqr5uJlJOZ1OA364eCZ0SRjcLlcH_nYz-UNSxC1OBxlFlnffYEmvck4pfnB13g4p66r-ox4kp9hELehYku_S_qMgM2HAHPcsZ1jpUNrrW_7zWAW8xbYgOIKym7TZEWDK9ORbq7boZT8BI8PXgSfARSCORrnEtQ9YziLks51PzHoPmzX_zLJCZIU08D-936rM1xVW9DVIsg3zTSgd1dTCMMhF1zTqsTB7NngVKcb439Xu6_eWN31N7PFH2RYc_V-TL0IizBn2CfJpkF8Dcf1EVFKVCuGVLzGpsQpPGPw0Cr4bijvw&state=ff29d58e-adfe-4695-b66b-b4f54a9f3556 307 in 581ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+ POST /api/library/save 409 in 458ms
+ GET /api/auth/spotify 307 in 280ms
+ GET /api/auth/spotify/callback?code=AQCV0onStKENtYMk8fGUpltCj3Xia99R6B_mLnBBfJwVhXZ0efXzTlheOnJp1jhKW1b3uAjhpPXq6U0KcivPTTp_kFFxlrjoTjArn1JFyMjPHpRxfx8YCZjzUw0hBm-JUnpVHXD-o_L3NDcERTuM4iPEVt3Y3_vON6PsgUB3Us-vjcZBjt_WXD_xJVe1rAcvhl8NZbeDDYt-ct9hCiMIkjpbCH4uqTViKGd1kX5oqXe17ZpNKyMtrnEpE6HVE6tw4sAzpPaeYqhQAfk75zrZQP8caLO7yfQSFOt3BRMy5uIJ34zNUvmDFH9cW19_8CAQgECmHfpNzVVuaJWz458EK9p1pkYkFw&state=ef7b6ce2-bc56-40c3-8a8c-f27cc8033815 307 in 547ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 106ms
+ POST /api/library/save 409 in 450ms
+ GET /api/auth/spotify 307 in 285ms
+ GET /api/auth/spotify/callback?code=AQCXtlvRiO5AYJz6Jm2txolCUU9OKUxwPmoZPLOMoYS4rRvDzcqt1U4AQ021_LNS636s2hQzjJVT0iy3FGmFRgOcY2eZXl9nWScSYTQ3JCjwT82Y84LL48GdwnSwlbwZWknyf1cya0pMznFlfb8ZHOaYLNkE-QJUPLUKjXRu7rvOjMkvyPD6bQWu9ZWVHSJFHkPX3TbMUwpRaaw744VvADRpdxLz9TlsmclM4jZvWFTMmI3ZaPMN3MNoaVGEDmmCKc4sqWG1bFYRDxjkXb13KgKnVBl5ZdtuSSGxJyqPo7u0SVin-A27rnsKx6IP3gBbHHLFoLnFrs5Cpq7HCe5mL85Kcv9yuA&state=f395a494-5075-4168-90db-9b5fe3799ecd 307 in 503ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 102ms
+ POST /api/library/save 409 in 442ms
+ GET /api/auth/spotify 307 in 280ms
+ GET /api/auth/spotify/callback?code=AQBxQJLi_QvnwiPBTG35JKCYSpQCR8xyD0IGFnv6Sj0MYcPqdsWtfKSZA3Z19q4wP6WJKRIoOl4JJjBHmlbLK63NKRbpwA4VZpREPdmxksgB2LURswImAsHrwfMu1fK__1dUIZPxYhNbv0E8AXUCv0jJkdlpJ2dbyEmwNKPXO55V4ZcuRLq3BkB1m2shhIHtppgTR1Y9P4wTuO2hf_vqYjxENbdkFLIT4W4KaQ043ctrgmkk1fn86PctHb6OON6tXY9pKlcwU5TZyWLDX2NT2WsFkpKMDZpAJGSHsItWG76HW1py1GSscIVPH0xvuX4r5AM0coJc4xkcpmvHzOimwhxMOALBdg&state=82a7752a-4340-4a19-abe5-5bdefb232277 307 in 519ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 105ms
+ POST /api/library/save 409 in 498ms
+ GET /api/auth/spotify 307 in 288ms
+ GET /api/auth/spotify/callback?code=AQAV9JmHItf7Cco8o7sL120u9tbyv963AGml2goxnHpK5FXnnp4GWm8wzajJL0N_EMPlAKSS0DX0j-c0y1nugZEBrvBKKFNl34Bc27DRVxp1O5f7oYLJqaFZlP-y9-pEvGohD22rqK-cYHb-Yqkg8w3ZbCDWkW0nsuJIx6LYZPihR3SSIguGwAE84b1JTOtiV00bwxHfQw0eXAh3HzvXaMz69ghhU49lzmpCXRaZ01aUjoicuu-imdcUiY25SUyWO-CPU44rVR9hvejJl3wRIUvk6kqkIU9I-ZGcmQXJjsa8sNVtLu4afqxPzDE6ydx6DBZhJqt80WgEcaPHd0I5w0V9yUe3Pg&state=87fbaf80-8ad4-483a-9c8d-f6b8cb0296a0 307 in 516ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 105ms
+ POST /api/library/save 409 in 457ms
+ GET /api/auth/spotify 307 in 276ms
+ GET /api/auth/spotify/callback?code=AQCXdecVbxdMz0-4c818teE1sLMEomnsSkn1w_fGjNCkAGVVLMGznzlj8TSenhzsf1fB4SQWy4T2ggf6F52zW0kA4F2Qo0LpWfWnIim1PNsmLOgGd1fxopXoOe444JM0pFpM5iEkCVVejlgrB-XwBwVnEijnXXTUYqwEA0dzon_Y3lfVYYUAa7wpkQ-JiFPwL-16DKT2Pb5KeqnKtUDXrTRDtjAYwNg7nu9ax2QW5u2GrTFknj17uorjp-hDXtctbTIEZsVsxwl77RpLyzzFMiagIAlGUFsdDflr2GlruPW2fgFDjibhJo1DjcQb_uyvpOx2zYC9MDhA1xZD7r4JuVVXBAZFuQ&state=a84e7894-4b77-483c-9a77-c0bcb25969d7 307 in 546ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 110ms
+ POST /api/library/save 409 in 460ms
+ GET /api/auth/spotify 307 in 280ms
+ GET /api/auth/spotify/callback?code=AQBNZ2UQ9VNCbyevY4tUXX22cKI86h4SiVvGaEz35cTBYLq_pFopWz5CEkLlI9mu0VQL4Y62bAmh9JlJ5UKiqHjfJ4tE8ohbZeRNF-ttZZRK3mX6gw-tiUd0E2SWRHNiAMseWRYJpCbz919LM-Dac_dGYRnGoxC9_XQOBG2in8nVDQpeWxQx6dv4-O-3cX4G3yzFgKyjKW9mkaQTIMdNqv38c0e_YtlgllOBdREd-V0GRiL1o-zXG1pn7ynCYQCbiViKK6r1B_45KcxhNzvb7q3v1AE49FhZXtGyv1HQopmP8Lb8kqmY54JzVN9vMcL5ERi9a25UQJkVbBBrFmeFhxNr1duCog&state=0e77b6b1-40e3-40f2-b419-221bf273f519 307 in 502ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 122ms
+ POST /api/library/save 409 in 449ms
+ GET /api/auth/spotify 307 in 283ms
+ GET /api/auth/spotify/callback?code=AQBt0bH2MhlzU66AEanezp_-WkUn-VDi-MWxXe0PHWAJfonTMwAz72wU4KcIaUvfGqSVAYIsaAtWw_nr1VzVULxnZyjiDywdqS2-EU4qe1x2pQ1UaQoBkHcs7RdASQAt-yjStycBG_4lzt25vphUHC0NOwUGz21OV8RPnBkNk6_L3Rk6og9guiAj0jC_K94FMKqSvVJLjhRu6j_eWVH5k7envxZpDsJsd8zrlKQnkmFog6wBE5ErCu9H6oS8mrg_0apyupFayRPZ8uK9TFa4rpspo9jQFnfIM4eFnU2Dy2T-1mzESLG41KUkA1YLlh8Wc0osVk7Bz-u18KazCq-K23bnE8O1Lw&state=97ee3ad0-9801-40a3-b031-0a1f6c9825df 307 in 520ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 106ms
+ POST /api/library/save 409 in 478ms
+ GET /api/auth/spotify 307 in 297ms
+ GET /api/auth/spotify/callback?code=AQDSRS6jRAhPIHCCtVpgm5nXzkgrv_CByRQue2x5mmzncELa6kff9ERydcbgdEMUxeBIuDauRPcqiV1XiD7h7GfxsPdj_VR99YqxKHlhgTTAG-v-n86UYCElscBp86vgVJQaA65usopywStyeqaBLn_ozVv8cP8X2Iev1eiXNjcNeU1PK6QU0ldC_q-mF6XbcQAYlubD7nNDVVA1RcA5y9xBHf8yw4YeWuJu9yIGXXxbVYrsR6WH6ujz0vGj8C_E53hdAeoA3vB94giSDftjBwQY6iwx7V2rmvmCFn278DOaPMmH_5yTh20fu3bpeIiZeyYy6gSqhFbd5uLyaX4AXSQzDXcsKw&state=e4374a3a-a2d4-481c-b524-9126d6bc9826 307 in 537ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 115ms
+ POST /api/library/save 409 in 461ms
+ GET /api/auth/spotify 307 in 280ms
+ GET /api/auth/spotify/callback?code=AQAfQZ-xTKE3wbPLr5HJNg_IFugDlnHTa6lgNmd_bFhFGpi2aaxYQjeFBWoMPSZ_zwYKl1ffV8nca8bqb4XkBbbXbfG4QBZQ-3vDaMvCM11A-ORdvm_6Z4-SMLBhXpVDdcLIi-hBFRwBQG0CrIjayEeIAaCHDHJpUD7pIil5ZeEnoG7drJGmA9PsF80AgJSEVAulHnDkPWYF9nWZl_aH0rWV_FIo0usWJe2LOxIoeLcD4wOE_K-k3RInmUj7WuhV3wsRZmmCezCY0cYS7Alqrax0icrCjLk-YKwNEPekoMdHmjRH8Dk1ow9Cwye1BvnCIMBQtgbpK4WUiGULMKZKiN1tpyqP8A&state=031b4903-ae51-4f26-9dcf-c79645beac84 307 in 528ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 102ms
+ POST /api/library/save 409 in 450ms
+ GET /api/auth/spotify 307 in 284ms
+ GET /api/auth/spotify/callback?code=AQBjiMQ2WvPYbmJs1FxUCSucCxmcTMdRDq0sRaw59DTQeQLVnJgdi2aM92N-PwAlGDcqtWOZyXS71VTRIw2BQPNxpE4S799XGgegyZSvJlWzeuSiL_5kVgEJimy7z02s70scHNqNDcaQ_OG6n4Dq-GFd0Vmb7HVLgeeoCK6Qi8iMBZYZXSKqNctNyZZHruRyx7TO-JcyZgEiGsclLQWbzFx9mfguxPl2OJx1mVvJLE-CHZrk3WOX5ckQUQWOMIpHON0JgYH_KH938e4Zkjdt5c-UkxCb3QnFncfVvdRpoUoI9VgXrCcjmkIAKcAYmjuw8-OsSH54q7z-CSHQygcn0XDY8EpoVw&state=25002080-b2cb-44bd-ab63-2b5301648c25 307 in 557ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 107ms
+ POST /api/library/save 409 in 457ms
+ GET /api/auth/spotify 307 in 276ms
+ GET /api/auth/spotify/callback?code=AQAmn_6f00_ugxYYU-hVZ8rAvz2NhLJVzGuFv-hT0yiepUczPhZNp_ujpQyjGyhQIRjVQJ2MlO-DTw7kZZYqBaU4a6kUuNUZW7j-YVvl79OWnbPNzafJ6Z08APdgIr_TM3JkjrvsVeNkHn30jNpvbYTzzxst3qmodkw-vZpLpiS0wWizhJlFZ57s8dZWVCpB7CvSaWEoTEn5DrwapriaEHpP7uBU0nb-derK8KsKRB-IA7ckPKq4guyILGwgFT5J4t8CYdXCi53ho8d_MfutlR4uONb_MS0uBZGxvRRF1jZHnqLXYVONc33oGC3j4Q5usf1PBGDfmv4XLuyGJMNuvF06kMk62w&state=b685f7d7-3dc5-439d-b699-393fc67052ea 307 in 525ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 102ms
+ POST /api/library/save 409 in 448ms
+ GET /api/auth/spotify 307 in 282ms
+ GET /api/auth/spotify/callback?code=AQDrK8f12QlonKOcstbD7r6grhsiqFYqmwja3uwDkxumOQZBqArIG2NeH0GYgC-uTyaCrePscqxxnW6myIaHEW8Df0iIza8d49SRBkiRac3WxoQbqXAl7LrJYIkz2iYxArKaviSS_Ed5i__aJKKE3Fefjad2IcVrrxFnWbqbce_GHndlLUgC8woSxQ6-2HeISzYnA7_YAKlEqDM7l-l1r55NZUtVLudqtDDXZ4VbRTXL20kuxmkiUGPz3ws4Z0NojnpyvjBwX5I0EYTrXDVF3k4Xvn8Y8pzviNaovyAcOVcranCN0V5ZKZ7Qvfbh4p_zG5EfXn-LT8Iht1OsUrh8AM8jvS8fQA&state=5ef51875-04cf-4f29-9d14-192098f4d40c 307 in 525ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+ POST /api/library/save 409 in 461ms
+ GET /api/auth/spotify 307 in 282ms
+ GET /api/auth/spotify/callback?code=AQDZEeBTbbn1LR8sPaLV64qpScoB5bZ7Ijn-SPBh3VEURypA11xskxMgu3UL6JXXc7gROFtL3Y3_5T1sNR2MXePPEiKKCZYB1Qhf1sTjEp7Ka1O2QcyEDvm5H7t2PhhoFsp0Ta95JvZ-qkNJDdFw3qPGdkdDGfVVhPYxoirEMJZ3a-tBmPU01QaP6OF4JsU7EsqEwPVx5U2O12Uuy6qvW1BkyX1-ZVARAEhls0ayaeXcO55stKJkN7wqv9ZJO9DRBWotaqHroysfLIa0tbPQK8SPIaz43vIIh_uuaAPausvedTBzpr12KEjXSi3V06ydKM_vnQtLgyi0Ra43Go-CXgyC8tJQ4g&state=f2a1df0d-291f-4b36-a760-9cf1e394ad0f 307 in 542ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 113ms
+ POST /api/library/save 409 in 448ms
+ GET /api/auth/spotify 307 in 281ms
+ GET /api/auth/spotify/callback?code=AQAICUCXwxuCkzaZjpbbUcEo2Xo5qEflkA_VBB0KDSatvAodktmzuT5xWr2OFVJXc4YkyNg8SMvPWy1klqsZY3u48kceLsLClWVhPQ1vNqVFWKELSB6uEZuqJeOTy1I0MU1cq6uFSiYoGtptuPLw7__onXipNNnvuJHC9G6M7G3ppOi-aF2OqUB6FgXBXslZxYZe9pQwBiUTV5E2Iggc0ZQ5PfbHiZNiKN3Ohr0C0dREWNQOkfu_Q89vTzRZHVGnPcz0DT9z_mCLniYAzsfmrfhlwVdZQM-vpZj-vCim14rtx0Q1MjR5cHRZ9v_98uDuFYKZnB02AHIxyJfU-FpikW3uGXR22w&state=6ead97da-49df-4a3b-b6a3-bff7e5b21e80 307 in 510ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 114ms
+ POST /api/library/save 409 in 464ms
+ GET /api/auth/spotify 307 in 278ms
+ GET /api/auth/spotify/callback?code=AQBMgd0Mm-e7vyKgcEIjWwI9zolmwEFKMtzol4H6kJ3G6UFFd_ObDS2D3Ob-YvoGLsUfUWpuUsjG2FrzpRYhtwrinQuXYKX6hzgfNnd2Hh57JoHmayudC8zq66lvYpVOb-DTPDClQ6nciPiMCDIfDsqoK56z2SZn0kMzNS72C6CvInfhNZxK2QDQhbdliJhj_7aRPmcLHrwhawfqXy9CyWMcFdZohFR_nbTzDBO9FCzTpYk9wpUb8X4pq9k2nOc1X8dGT2JdSxq_ozaphqVvcEIPzcaPC5Uz37al_QW69714KpPwqxnEVElY-0o9z13YubzkpPdOqtDrEC_lE2waCet3dfQawg&state=fc7d28f6-6f92-4486-bec5-d23012950651 307 in 524ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 107ms
+ POST /api/library/save 409 in 450ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+ POST /api/library/save 200 in 388ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 106ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 114ms
+ POST /api/library/save 200 in 197ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 94ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 117ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 78ms
+ POST /api/library/save 409 in 483ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 116ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 107ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 57ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 121ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 119ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 109ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 109ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 110ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 61ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 63ms
+ GET /search 200 in 112ms
+ GET /connect?connected=spotify 200 in 121ms
+ GET /connect?connected=spotify 200 in 91ms
+ GET / 200 in 128ms
+ GET /connect?connected=spotify 200 in 119ms
+ GET /search 200 in 101ms
+ GET /api/search?q=lola 200 in 690ms
+ GET /api/auth/spotify 307 in 292ms
+ GET /login 200 in 386ms
+ GET /api/auth/spotify?claim=TEST123 307 in 521ms
+ GET /api/auth/spotify?claim=TEST 307 in 287ms
+ GET /api/auth/spotify?claim=TEST 307 in 290ms
+ GET / 200 in 147ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /api/auth/spotify 307 in 273ms
+ GET / 200 in 114ms
+ GET / 200 in 104ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /connect 200 in 86ms
+ GET / 200 in 93ms
+ GET / 200 in 92ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /api/auth/spotify 307 in 295ms
+[spotify callback] Error guardando conexión: Could not find the table 'public.streaming_connections' in the schema cache
+ GET /api/auth/spotify/callback?code=AQDLCX9CobFPKjbdlYAq_UdndNqcW8YaEsAKoNmrOhF54mtcdUln2ClmMCb44_hV7dFGlda7DN_lBGYXnoKbA2e9l8vYK6rl58RKMucLDMg_cP0NZhU1O8TCI4Not4wL3RcNhPl_TvCwg1-SqefYM9i8UQa_OTh1gXssAN3SwPLfQC7FsmaV1IsUR5TbuKo4ssMVNWgtCMGKArktQM7yp0Ymn13qYVZ5w2_lWWGIxSG8tbzAJDBHzC27ZMuoQ_n-16re-PEYU-Tz9qFYAQtpR9oTEGdnEnc_FX3UWDHqC8AIgwK5FuOkhdoFZERAxOukMvqQczqC6C1xHzSjJikWD0yDdKlqnQ&state=23ff2c5d-9181-4179-b526-63e6e8a4b5db 307 in 751ms
+ GET /connect?error=connection_save_failed 200 in 114ms
+ GET /api/auth/spotify 307 in 300ms
+[spotify callback] Error guardando conexión: Could not find the table 'public.streaming_connections' in the schema cache
+ GET /api/auth/spotify/callback?code=AQDpOCLYJTPWbQbuZqgZTKGfZvmP7J8ZZdVVDXgEkvXOK9CeO6SofM0xmpVmfZNYyZZWgYifLj0bVuiDwSMjn1ICQeFySfz3BDE8mEKUy5dm8JHzl9pYjTrEiKcO-slmj_xOXdXDFWrhoIZzDF6dQNwycXXKBcMRv7uJ3XNuwY2pgwdloa0z7CNvqOKU0E73AbF2H2LH1108CURlGYD9Of5D4-8dymD2yeO-kyGNGCWqCkiVNC79n93nvWisWkf3BWefpAXr-h8j8yI2fXta35vACQ2CZn0HBsiyQk6oiFbzplsowpe9TSYKHDudUE8LG1hOQ9pMyI40MNpj5ROQf6tJfEmU8g&state=2dec24d6-0d2f-4322-9209-cab241b217a3 307 in 655ms
+ GET /connect?error=connection_save_failed 200 in 118ms
+ GET /api/auth/spotify 307 in 297ms
+[spotify callback] Error guardando conexión: Could not find the table 'public.streaming_connections' in the schema cache
+ GET /api/auth/spotify/callback?code=AQBRxjEXhhCTuXe5W8ew75Pfk0eQlZXFV0liVfKryee7nLyfiq-wOD-O_TjIagw9pe-PxSt0MyKCIGgEHC9VGQdtT23hyYhbng0y6sY9ylBVuvjVB3eK2cDgVTWgwH-88zMCAyxNCGRZYKxTJf1yDLtOkZfNNNaTVuizhuoGYhvoQ9qncgSxjg_TIq1lLE6wX7VAgmwRcBnwOB6H1gaoDfOEHNE0gsoGsWKB_DOhq7qPDiGCS9PAzzpqp8lW6TeB6uwW3Q7rKVWtwQkOeQ-jfow22R8kF713Wj2h1GQCiHzbdnkxdpoFtVmGI8aD0ZJVGRWoc_K-4BOrxV1chYtKjdTAN5gZrg&state=48634625-82ee-4bbc-a19f-e169096428fe 307 in 610ms
+ GET /connect?error=connection_save_failed 200 in 112ms
+ GET /api/auth/spotify 307 in 301ms
+[spotify callback] Error guardando conexión: Could not find the table 'public.streaming_connections' in the schema cache
+ GET /api/auth/spotify/callback?code=AQA5EXK-xMS5hs4p-S_1ApWztrrG_rqqtFkVGvMQ72v4IkG4mSRcKfpsJi4NpEsMF2JVnBtiLd6IsDWKWYr4JnXHvr9f_eFTfbi8ZkDMQNcnjBjxYHgi8M4Zj-0UaBsEzhBbAuO4EinuPEuli2DKdQyHLeBr4I6HFYbXt7cBkx7812fJLvRuE7mv_NaTfii-Sr8zAfdDtEA8H_gvlsnViuIddLein-ocFfVTzIbKUCGr2yyyTbMnWILbsCcDn0mo8Z0C9vkS5p4vokVGFB5KmtKSaTAv1lVHNt-nQrA9Vd-ofHFOoG-xkWH3jRzvYRIlPptOYkKVyD1BugNXqe-lIBRc6z82vw&state=244fc2ce-6eaf-44bb-ad29-2e9e30e933f4 307 in 642ms
+ GET /connect?error=connection_save_failed 200 in 108ms
+ GET /search 200 in 86ms
+ GET / 200 in 93ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /search 200 in 80ms
+ GET /api/search?q=lola 200 in 605ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 265ms
+ POST /api/library/save 409 in 467ms
+ GET /api/auth/spotify?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 307 in 280ms
+[spotify callback] Error guardando conexión: Could not find the table 'public.streaming_connections' in the schema cache
+ GET /api/auth/spotify/callback?code=AQBFhZL0ixHKfaQaNtdcVUgSehOsDpeS8ufdjrKyzBdkzwORKBhT8acG7Qv3WqGn4pw8xER5Bl3c3_jdBRjkj2Agx622nRZ6-I4SpF3iFu-Ucui2YfbbP8d8DoMqpB83sv26fwxSP1nuYBa0oVPqDM7rsj6FaDAczPCl6__8TLwO_Ji44dSokWxRG2dttbiHW1asb_tInz-WTMnbkOU7gE2D5FbdfFTdOet8BXbI7pXA0G5XD72fXDAnVfDuzxIxJ5dPRezIeSu7S5RAclzq3pMIlH38WrX8EV0ukFKVdJSqV_JLhxl3Pi6nWKliGEcnwGlg3bODRQqEbraczNxzzg3SChLxIg&state=4433c8f1-1c30-435b-98db-2ba00cdfafcd 307 in 664ms
+ GET /connect?error=connection_save_failed 200 in 118ms
+ GET /connect?error=connection_save_failed 200 in 121ms
+ GET /api/auth/spotify 307 in 298ms
+[spotify callback] Error guardando conexión: Could not find the table 'public.streaming_connections' in the schema cache
+ GET /api/auth/spotify/callback?code=AQCCWxlC7IfPsa0hAeI05wXXty_YPK3xPDtanJcJTwffsx0wPxuxdChmwhfiujd1zziqE5lpJivVdt86Qfbx3BOGST1zFY5I02gBsKB90XeQfumhLQt_nIFgriB-q28YrXKZXNydolr4HECFgKtfIIFqMgDywRsTU4BcqQtDXqqvF6ykx9BmErogBVyvnwKEwn4mtgojvs-sXcwFSReVb8F_2jB4XLWaQw4Ah69uEpv_aJBDdsxvIN1gDzBYwLBoREghZWAV5z0v0hEwnD1h7dqLM4vxhXFqCw631hpo7uLjlTv_RnrnKx8W4aI-O3i2Q40Y_fZs8qD7Nt6y0n9kEs20goofRw&state=96f39493-0766-42d0-95f8-e256c8e94746 307 in 824ms
+ GET /connect?error=connection_save_failed 200 in 111ms
+ GET /connect?error=connection_save_failed 200 in 124ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 103ms
+ POST /api/library/save 409 in 486ms
+ GET /search 200 in 114ms
+ GET / 200 in 92ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /connect 200 in 83ms
+ GET /api/auth/spotify 307 in 295ms
+[spotify callback] Error guardando conexión: Could not find the table 'public.streaming_connections' in the schema cache
+ GET /api/auth/spotify/callback?code=AQAQg12tgsigpwCXp-KdaZ7RgfoaP4_5N_QJaFzHbWk1Ch9LOkD3FHvlWaLnr7mlPeBEI4NOk40mRLw03uJ5ORdhWf2guCZo4vuavKO-7hC4YwUk2z9sFIXNv2gFph_-a5JnoVXe97mAikjJhvqRYan3m_Nk_c43FgHnleq4QdkBiABtm_2u4adNHG4mhDonACMMkIl1Lj6sfalBfmO9KXOYBZ4jjLslxKcG8qFkL1uvpsZkcbU_6YXoDo5GU5iC6cu8RGmQAGPsgb8Nk6UgJRyBn1s_HeS4Kk3PKzodFtR9TVO0YT26YhNZ06CCUeac51-C37QyX_hpjlxDSTH4Wrwn-wGzGA&state=41e03645-c6ea-41b2-b112-fac7f7a77b07 307 in 710ms
+ GET /connect?error=connection_save_failed 200 in 108ms
+ GET /connect?error=connection_save_failed 200 in 121ms
+ GET /login 200 in 107ms
+ GET /search 200 in 83ms
+ GET /api/search?q=lola 200 in 654ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+ POST /api/library/save 409 in 548ms
+ GET /api/auth/spotify?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 307 in 286ms
+[spotify callback] Error guardando conexión: insert or update on table "streaming_connections" violates foreign key constraint "streaming_connections_user_id_fkey"
+ GET /api/auth/spotify/callback?code=AQBWy5MhuW999o8_TKp3BSePE1gYrnzeOI0jsrTDWYAwRLByigsZSdadP_nzWgYZCrK2j6e5OK8bQY5WoMXkYP0x413m1m2iKuwxzAxKT7Lo2Rm1TB73hqUHEq9GxtbvDaoEjqPUj1o7R1kLTdKR6rC5yz1RJ_uOw2fBmFxG5laJxs0ug7Pflt0VDGClXE8i1eP8pCZdxJOAs0tfG1zB_BTp8Nqcv8oO6sf_a1BWis_UkJpJA48yF8H7z-oBEITwGSLAHSRCNFkLg2Nf08XXel-houvFoy_iXnEnbMyc1BX62Kw0C-lue1z4L5NzmV-BhpvwekXfJu2DNwgx6snRkeLzTJS65w&state=5e819f54-147c-40ba-b03a-46028ece67e6 307 in 833ms
+ GET /connect?error=connection_save_failed 200 in 116ms
+ GET /api/auth/spotify 307 in 284ms
+[spotify callback] Error guardando conexión: insert or update on table "streaming_connections" violates foreign key constraint "streaming_connections_user_id_fkey"
+ GET /api/auth/spotify/callback?code=AQBj3Gqe89R6Wq7QKHVrMBx7vF1ZFGJ7qN6OYC1V1C3czOF5_zwLkFMz8pJvxM18QXfASpehna7JbMsN6UMD2I1-Iw3wgrKkDnfgsjaua3FiLLCxMkrcXPQPb84Yadc_nCRQMbYK3m9HbeaLqxqfTa8XYswdzFQNPrNPWvNZLnA3hZ-wQAC3blS84E-0OSs5LhgtCu3TkCB2ofnUlZljdVBM5RNi2zAquqbqq2SIZenPAcwQsiRAaudBLleWw8J6QkRIfJD63NeCfTb_EjZ4HgStvC5V5TMGcyAzaQec1v9KbJoYnRuAQt4CwkvISYM99P6O0nTXfyClf7YlgwGnOJrY22eLFA&state=014954c7-2d36-41bc-87ec-9fdfe367e27b 307 in 634ms
+ GET /connect?error=connection_save_failed 200 in 114ms
+ GET /connect?error=connection_save_failed 200 in 119ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 118ms
+ POST /api/library/save 409 in 564ms
+ GET /search 200 in 84ms
+ GET /api/search?q=lol 200 in 667ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 121ms
+ POST /api/library/save 409 in 468ms
+ GET /connect 200 in 91ms
+ GET / 200 in 90ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 89ms
+ GET /api/search?q=lola 200 in 669ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 109ms
+ POST /api/library/save 409 in 453ms
+ GET /search 200 in 86ms
+ GET /collection 200 in 99ms
+ GET /connect 200 in 77ms
+ GET /search 200 in 85ms
+ GET / 200 in 86ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /api/auth/spotify 307 in 277ms
+[spotify callback] Error guardando conexión: insert or update on table "streaming_connections" violates foreign key constraint "streaming_connections_user_id_fkey"
+ GET /api/auth/spotify/callback?code=AQAqk9sX2rznqCzGBVGLEw1YVIeiMT1YzydlEQybSYpSktx9DRKVnDwgmUh-ENYnBRU8mk235TwtBorrdQ0-EAdYMOktXiXTdeqx9PMvNgDUL8TRZFUBswU8cTtKgqEEMVFJbWswvikZVsh9kwavCTXGFV-u929VCPYWJcqeqk_Hth-RQISQNf3dn88RtT8pesHCpUq1Qjxlig_p-kD2i2Pr_jYg2bk60xC9ZKcJAOQz66se92NxCMn_9s_oqLFJOe4yZCmU43tUb62QFZEb9wikNnKpneRoocnDdzcC3bihpi0Iyubxn_H5Y0bbuN6RLXXwNHCJw2joGzMF37FlVO98pu3Vog&state=7b0a3868-8626-4350-a80d-967b10d337fe 307 in 674ms
+ GET /connect?error=connection_save_failed 200 in 123ms
+ GET /api/auth/spotify 307 in 293ms
+[spotify callback] Error guardando conexión: insert or update on table "streaming_connections" violates foreign key constraint "streaming_connections_user_id_fkey"
+ GET /api/auth/spotify/callback?code=AQAZL1EuBwybDZIt2JDLvvzTThd4-cuOXxcbvjRnjtOWO3yrbxx2ZbgmN6Q3xbBhs_FTRoEMa5GO44Si3Fp8X5kPKzbZlfEqTU1fp6ky2RM2e4AzbntndWShdwu6L9mx5kKqOhGdfY84poDocomqKyNkUvIoxUeIXsuaNe5wQSbTKjN6F91bchJBO3BjH1ujTOOhcOWUeDmbKMeKlZdUpa4_I3TY6JdbHOPBKNSqQd0Wam6C7ccbaA1SDTbd5o9Mcn2Wvk7oZyMp-qaxzUBxZEZkmanoHwR-0rbmesjH8HOleJJrMs0dcr4ilGDmD54YwCDyonfetHJkN26EWtZ2TiWQjb7mTQ&state=def3fbd0-22c4-49ec-9dad-a49e52607c91 307 in 666ms
+ GET /connect?error=connection_save_failed 200 in 125ms
+ GET /search 200 in 78ms
+ GET /api/search?q=lola 200 in 669ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 105ms
+ POST /api/library/save 409 in 464ms
+ GET /login 200 in 114ms
+ GET /auth/callback?code=e85b711e-fdcc-4122-99f5-ef1f540877da 307 in 429ms
+ GET / 200 in 121ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /api/auth/spotify 307 in 307ms
+[spotify callback] Error guardando conexión: insert or update on table "streaming_connections" violates foreign key constraint "streaming_connections_user_id_fkey"
+ GET /api/auth/spotify/callback?code=AQCSdxlMoNeoVmOsurctkgiAo4CED_0WsaszvazD1IEngmUwKgcRvzG144G-9BpKqCuRDmI-q2Bijfx6UY2fApL4VBrZBft-qmZp0yq3nRHwinR740GLii3WPmI_rkrI8D1jL2z7Lqfjso1k_T5P0v5mkTgBKXNh7KmxHHiuMuCdP9ISjCiUmtZexPX42dJLCSKeirFpvzRA5iHBp-Yt_uR3Y0FTeCNFgNxJlgLYPM71QFhZAq6ySMZyRMEslIuhihm1eTkg_m6s7lpvnIBrcSozmnVCCwY3XPmhshEPKxMCUDH3Mphe1n8zEbPR3UDi07lA65WEKw44tYFNQWCMyhmf-Il4TQ&state=c26fc2bf-3f8a-4548-b071-873487349de1 307 in 841ms
+ GET /connect?error=connection_save_failed 200 in 112ms
+ GET /search 200 in 85ms
+ GET /api/search?q=lola 200 in 660ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 122ms
+ POST /api/library/save 409 in 476ms
+ GET /api/auth/spotify?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 307 in 281ms
+[spotify callback] Error guardando conexión: insert or update on table "streaming_connections" violates foreign key constraint "streaming_connections_user_id_fkey"
+ GET /api/auth/spotify/callback?code=AQDXwKhAq2qVX-woebRwti_1nihY-Y54VjA3Pxb4jVnB-kg_VCtHPMcso61qwZPwmpo4Bw0qTt6cuMxnkirWeBd9QWE3I7ezae-qT6mfx2qHFSSDVbAEz4TUmFNf2BOuhNt7UuOjk9Q5mwllh-bHzFu3zP9rOz8SxnW-fHfWOjKmO8oFQlAbKhLHEWqkPW_9En0vUvMXoecvB6E8JRUKyHHnrv-FDeBFj3lhp4y3YyPn2yoYryllIgDeXTsw7cG0MM5MkOYgwxv25Up1Gk3Cqm5QlCLdvmfIbbRVss4QKmCx6r1lmxM3OxuTbBgZiE85fC1hkY6UowjExXbcvgVrkk8w5TlbYA&state=c3da2f5b-ad0f-41f7-8dee-913d51106a2d 307 in 654ms
+ GET /connect?error=connection_save_failed 200 in 111ms
+ GET /search 200 in 83ms
+ GET /api/search?q=lola 200 in 624ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+ POST /api/library/save 409 in 486ms
+ GET /search 200 in 91ms
+ GET /connect 200 in 116ms
+ GET /api/auth/spotify 307 in 289ms
+[spotify callback] Perfil auto-creado para 11b228dd-081c-4523-85a9-c2721d804495
+ GET /api/auth/spotify/callback?code=AQC7e7BJBbJqPX_eqR9PYJrsIdfHeV05CYy7JpXu-ebvvNIpVN61hXWclQqAhUnkBxSt9DswONPDXumedqbT1giNWTydAzDlEgnveDLI4Hsmu6XIdeGP7mqGA58h1Fp1tguNJnGcYLvVvlN-VpyOkSjB5jeoD09ruGaNsjsXlUGUTl252zKd_hLcGQeZc7OcvetmHP0PXr_TJcs0JHollrtgqKMM38oA9pR3sxsaO3DJvIbcDNKHWMmTxd7gPSj4BxuJYjwsoy2yPC0B_iSWrArI1Bp_-NlaACsHXEdkKB_ELzdxeN6I5SKiVb5uGd1K2EG5HMhQYRi2Q-wbARNDS5t37XnCGg&state=cb7e62d0-bfe4-4fe0-86e0-bf78e12b5e0e 307 in 1093ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 117ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:167:11)
+    at async POST (src\app\api\library\save\route.ts:86:5)
+  165 |   });
+  166 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 167 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  168 |   }
+  169 | }
+  170 |
+ POST /api/library/save 502 in 600ms
+ GET /search 200 in 92ms
+ GET /api/search?q=lola 200 in 728ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 106ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:167:11)
+    at async POST (src\app\api\library\save\route.ts:86:5)
+  165 |   });
+  166 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 167 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  168 |   }
+  169 | }
+  170 |
+ POST /api/library/save 502 in 553ms
+ GET /search 200 in 80ms
+ GET /api/search?q=lola 200 in 628ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%2265gUW0rI0yrnYpZUSS4Us2%22%2C%22name%22%3A%22EL%20BACHAT%C3%93N%20DE%20LA%20L%22%2C%22artist%22%3A%22Lola%20Indigo%2C%20Lucho%20RK%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b90711be912b8f71d9ae6ebf%22%2C%22releaseYear%22%3A2026%7D 200 in 112ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:167:11)
+    at async POST (src\app\api\library\save\route.ts:86:5)
+  165 |   });
+  166 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 167 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  168 |   }
+  169 | }
+  170 |
+ POST /api/library/save 502 in 549ms
+ ✓ Compiled in 139ms
+ ✓ Compiled in 134ms
+ GET /search 200 in 87ms
+ GET /api/search?q=lola 200 in 630ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 279ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:167:11)
+    at async POST (src\app\api\library\save\route.ts:86:5)
+  165 |   });
+  166 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 167 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  168 |   }
+  169 | }
+  170 |
+ POST /api/library/save 502 in 892ms
+ GET /claim 200 in 131ms
+ GET /search 200 in 92ms
+ GET /api/search?q=lol 200 in 756ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 117ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:42:54)
+  40 |     );
+  41 |   }
+> 42 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  43 |
+  44 |   let body: SaveBody;
+  45 |   try {
+ POST /api/library/save 500 in 478ms
+ GET /search 200 in 85ms
+ GET /api/search?q=lo 200 in 592ms
+ GET /api/search?q=lola 200 in 662ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 110ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:42:54)
+  40 |     );
+  41 |   }
+> 42 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  43 |
+  44 |   let body: SaveBody;
+  45 |   try {
+ POST /api/library/save 500 in 431ms
+ POST /api/library/save 401 in 320ms
+ GET /search 200 in 90ms
+ GET /api/search?q=lol 200 in 631ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 120ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:42:54)
+  40 |     );
+  41 |   }
+> 42 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  43 |
+  44 |   let body: SaveBody;
+  45 |   try {
+ POST /api/library/save 500 in 436ms
+ ✓ Compiled in 149ms
+ ✓ Compiled in 129ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 269ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:42:54)
+  40 |     );
+  41 |   }
+> 42 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  43 |
+  44 |   let body: SaveBody;
+  45 |   try {
+ POST /api/library/save 500 in 468ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 114ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:42:54)
+  40 |     );
+  41 |   }
+> 42 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  43 |
+  44 |   let body: SaveBody;
+  45 |   try {
+ POST /api/library/save 500 in 430ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 117ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:48:54)
+  46 |     );
+  47 |   }
+> 48 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  49 |
+  50 |   let body: SaveBody;
+  51 |   try {
+ POST /api/library/save 500 in 512ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 117ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:57:54)
+  55 |     );
+  56 |   }
+> 57 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  58 |
+  59 |   let body: SaveBody;
+  60 |   try {
+ POST /api/library/save 500 in 489ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 129ms
+ReferenceError: Cannot access 'body' before initialization
+    at POST (src\app\api\library\save\route.ts:57:54)
+  55 |     );
+  56 |   }
+> 57 |   debugLog("user:", user.id, "body:", JSON.stringify(body));
+     |                                                      ^
+  58 |
+  59 |   let body: SaveBody;
+  60 |   try {
+ POST /api/library/save 500 in 483ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:167:11)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  165 |   });
+  166 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 167 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  168 |   }
+  169 | }
+  170 |
+ POST /api/library/save 502 in 672ms
+ GET /search 200 in 85ms
+ GET /api/search?q=lola 200 in 819ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 107ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:167:11)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  165 |   });
+  166 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 167 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  168 |   }
+  169 | }
+  170 |
+ POST /api/library/save 502 in 556ms
+ ✓ Compiled in 152ms
+ ✓ Compiled in 128ms
+ GET /login 200 in 108ms
+ GET /connect 200 in 119ms
+ GET /api/auth/spotify 307 in 314ms
+ GET /api/auth/spotify/callback?code=AQA2_N39AIKo2oKn0P3dIUTcmPjc97a8pLJs4y8En-NyosKZx3f8Y6Y7PkJ9qMza_5FWbhSB2oKyZGld0IXGV7KaxqxRDpGztTww08usEgAsAKzWV6Csqlef8eDsss1wxfd_6IUff6-8743xep09uaiQWdG91mklD4aRryaLcRNbaFxFDa8tpn2-9UD8ubj1clT__fYTtZT4maJCG35YO9pUGiwKzRfk2zaJLk0PUOBE6ym1mjBNQ2GVu_0xmwZZnjwKS5YGWvCMlWiVhLt_xvgTsOf0U1nvRD5C0HF7ya_fATHglaN4BwiCNyj9uYfUyX9GJHFGMnPv65fgqiptkxgNzCIcwg&state=690f793f-3606-4b0a-b7fe-ecb7b61d6a99&ubi=CAIQrqfQkIU0GiQyMTY3ODk3MC1kYjA3LTQwYWEtYTdlMi0yNWRmOGExOWQyZGEiJGZmODAyOGM0LTFmNjItNDNmYS04Y2VhLWIyNjJmMTNmOGNkZTokZmY4MDI4YzQtMWY2Mi00M2ZhLThjZWEtYjI2MmYxM2Y4Y2RlQhB1c2VyX2ludGVyYWN0aW9uSiRjZWY0NDJjNC1iNjVjLTRjZjUtYTA4YS0zMjRiY2RlZjAxYTlQAA%3D%3D 307 in 1078ms
+ GET /connect?connected=spotify 200 in 101ms
+ GET /packs 200 in 106ms
+ GET /collection 200 in 88ms
+ GET /connect 200 in 104ms
+ GET /search 200 in 96ms
+ GET /api/search?q=lol 200 in 783ms
+ GET /api/search?q=lola 200 in 675ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 278ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:172:11)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  170 |   });
+  171 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 172 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  173 |   }
+  174 | }
+  175 |
+ POST /api/library/save 502 in 610ms
+ GET /search 200 in 107ms
+ GET /api/search?q=lol 200 in 625ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 106ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:172:11)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  170 |   });
+  171 |   if (!res.ok && res.status !== 200 && res.status !== 201) {
+> 172 |     throw new Error(`Failed to save ${type} to Spotify library (${res.status})`);
+      |           ^
+  173 |   }
+  174 | }
+  175 |
+ POST /api/library/save 502 in 612ms
+ GET /search 200 in 87ms
+ GET /api/auth/spotify?claim=%7B%7D 307 in 279ms
+ GET /api/search?q=loo 200 in 674ms
+ GET /claim 200 in 272ms
+ GET /api/auth/spotify?claim=%7B%7D 307 in 352ms
+ GET /claim?claim=%E2%80%A6 200 in 100ms
+ GET /search 200 in 85ms
+ GET /api/search?q=lola 200 in 812ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 103ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 657ms
+ GET /api/auth/spotify?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 307 in 312ms
+ GET /api/auth/spotify/callback?code=AQAyuCw77wVgdrgkVoVtohpS0AL32TKQWf8ZyLGL2qvLYhOcXyoBfC92B5u1WHPNsoQ7U9UvELaLeLcm0kqRDDnMCqWQeTz34eURfITp3BrLBAV4MJMqJD5PahxBF8Of0FttKdLhYhD30choGntZX3MmDCIbiha31gBPhWKZe6ieBDF5vlfhlSG-Joa2DDvd5geMK7InXkS3Z8_Ja667JNZ2I_et0AlGLyDDYbg1rIxD9YVGpVPcQaDNMsRKfpWLpDhAfwE8dAyvq4chs2dzrNofgu5C-NoTmnHL1Ino6dTqw-Sv8dxT8Xk6rlrbA9_LTspc3smM0U_2HTG31A3AhoRPn5LbqA&state=b1985f45-c5c3-44e1-b7d0-cb11b8418cd0&ubi=CAIQyvDykIU0GiRjM2Q2N2Y3ZS03NjBmLTQ1NzEtOWM3OC0xMjI0OWQ5NTFiZDAiJGU2M2I1ODM3LWU1NzctNGJhYy05NThmLWIzMGU3YmFkZGU3MjokZTYzYjU4MzctZTU3Ny00YmFjLTk1OGYtYjMwZTdiYWRkZTcyQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 851ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 97ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 689ms
+ GET /connect 200 in 88ms
+ GET /api/auth/spotify 307 in 289ms
+ GET /api/auth/spotify/callback?code=AQAvbTM31jX3RSiLKHD0TaSsPz8XyR-jNTn5h-Y83RrK3mY4ZXnHv4EgRq5P2kZSqOQUJu6h9CHxEtJPdgNT9HS3gsIgY2u-K24NQT7zfDbJLj_XoNjvELeNyUN376OvRGAaRs-CRp6aEC0hKSaTAR0UxRqbGrq8i6ZWIeofKPKvELD0JN90gSCognRBhBeP-mMOvKBIlnZxtI_EPn9RDIk93wgFA_Y_gwZ_DyJp4nhg9nrU7t5Y7iIzQqsLgB-4Our8w01WTdNJnRwihPpVz7hCPItV_L2d56hJs5F1_Z61cH47cZjHtITG6UtNgpCWoCytnf-x2Odw9s7a5rAU8fFQcqnPiA&state=b82d42d2-91e1-44cf-8fab-e67aa7bc3f81&ubi=CAIQndbzkIU0GiRhZDJlNDQxMi05MGFhLTQxZTAtOTkxMi1iYmRmMmFiYzk0YmEiJDgyN2FhMjI3LTAxOGEtNDFlMy1iOGJhLWQ3MDc2YjY3MzUyMzokODI3YWEyMjctMDE4YS00MWUzLWI4YmEtZDcwNzZiNjczNTIzQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 738ms
+ GET /connect?connected=spotify 200 in 104ms
+ GET / 200 in 91ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 88ms
+ GET /api/search?q=lola 200 in 642ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 112ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 551ms
+ GET /login 200 in 121ms
+ GET /auth/callback?code=a1357bf8-1b44-4271-8280-9f4b7330f769 307 in 443ms
+ GET / 200 in 112ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /search 200 in 126ms
+ GET /api/search?q=lola 200 in 667ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 587ms
+ GET /search 200 in 83ms
+ GET /api/search?q=lola 200 in 664ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 110ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 594ms
+ GET /search 200 in 86ms
+ GET /api/search?q=lola 200 in 838ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 112ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 530ms
+ GET /connect 200 in 80ms
+ GET / 200 in 85ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 102ms
+ GET /api/search?q=lola 200 in 785ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 112ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 579ms
+ GET /search 200 in 90ms
+ GET / 200 in 91ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /packs 200 in 87ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 404 in 632ms
+ GET /connect 200 in 96ms
+ GET /api/auth/spotify 307 in 301ms
+ GET /api/auth/spotify/callback?code=AQABXYJWrFlAhkCLiPagR4zv3V60-OnCgIVtpnn5HgG1I_9IwP_WJsZ3eXIMdML5kY-jAtjTbsj619Ms4NLWIZrgJB-0OTffcO2IWY071xmjUMIdLnRyukcP04IHOFh0fl1_sk8rILgWpzd56JVF9wovGsVkvMq-CE8LAvtMWHxlbzA2i33ypzmrOhTO24IUlPkkjmiz0d7BqTwnB5KZHxk7dww_apajl7KbqO0rvRafZNmbWgie5cMkvMyquIZlzRy6xa7wpkuTDwqC1n_OpkPb_L4V5n-n0317vBDCUwgUno52Lb2PC6nAzyIWyhsk777Z9oDETv6huPvMSKY-l7kTi4oMZg&state=5c673c0d-7432-44de-99f7-d1cee90a4b76&ubi=CAIQqa2SkYU0GiRmOTA5MWY5OS05NjY3LTQ5NzgtODAwNS0zMTU5YTg4Yjg0NTIiJGU0MmY3NTczLWM4MWYtNGZhZC1iZDEzLThmNWQxMDI3NDAxYjokZTQyZjc1NzMtYzgxZi00ZmFkLWJkMTMtOGY1ZDEwMjc0MDFiQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 866ms
+ GET /connect?connected=spotify 200 in 102ms
+ GET /search 200 in 84ms
+ GET /api/search?q=lola 200 in 631ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 115ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 614ms
+ ⨯ ./src/app/claim/page.tsx:2:1
+Module not found: Can't resolve '@/components/claim/ClaimClient'
+[0m [90m 1 |[39m [36mimport[39m { [33mHeader[39m } [36mfrom[39m [32m"@/components/layout/Header"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { [33mClaimClient[39m } [36mfrom[39m [32m"@/components/claim/ClaimClient"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mClaimPage[39m() {
+ [90m 5 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/claim/ClaimClient' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/claim/page.tsx:2:1
+Module not found: Can't resolve '@/components/claim/ClaimClient'
+[0m [90m 1 |[39m [36mimport[39m { [33mHeader[39m } [36mfrom[39m [32m"@/components/layout/Header"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { [33mClaimClient[39m } [36mfrom[39m [32m"@/components/claim/ClaimClient"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m
+ [90m 4 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mClaimPage[39m() {
+ [90m 5 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/claim/ClaimClient' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ✓ Compiled in 191ms
+ ✓ Compiled in 107ms
+ ✓ Compiled /claim in 75ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa+ti+toa+%3C3%22%2C%22artist%22%3A%22Ana+Mena%2C+Lola+Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 411ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 393ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 606ms
+ GET /search 200 in 98ms
+ GET /connect 200 in 80ms
+ GET /api/auth/spotify 307 in 304ms
+ GET /api/auth/spotify/callback?code=AQACtTeIkt04227yIw666lt9fhnXDQQl3bH8bL-XyNNbHa9bBN9WO94jlhr1mF8wbdpijN2erYNLLab2pdabnIRN10TR0-zwEKCrcnpVtafa-vbmj3k2POYxgCuhQvNC--EkrwIYabcXLc6S-a3xVD67zi5V3A2WWov1Bb4vjWYFxXm0iYM7mNFmXt08Xt05MdBzB6UH4NVlMDr-nOGyl4nJx3YFhcAKA6Is2AWs1cz4vmH4ODY7xaKvq0Rwz8Dck9Zkg8WoRNN5-8lh2iHm0EPbtbq-pjcOLqTTMP7L0KJwbDY6fSpgM61NHt_5r8wtSwo2O896lyMflPk9XNpd77ZU5mPsNQ&state=9aa6824d-83bd-443d-872c-3765837e4b90&ubi=CAIQ1amikYU0GiQyZmY2ODI3Zi0zMmMyLTQ2NjYtODI4MS1lNjIwM2UyNDk1NDUiJDM4Yzk3YzVmLWIwMjEtNGMwMS1hMmYyLWVlOWNjZTY0NDhlOTokMzhjOTdjNWYtYjAyMS00YzAxLWEyZjItZWU5Y2NlNjQ0OGU5QhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 870ms
+ GET /connect?connected=spotify 200 in 103ms
+ GET / 200 in 90ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /api/auth/spotify 307 in 291ms
+ GET /api/auth/spotify/callback?code=AQDHo6tqLgUXxUZ_FSzBLTuHoWdq0oqhAhK0sVSWli_PCtXSZk_xrNBuHWuTQjTuMbCFPUlev4SnGHRHVV6CPWVBiKqFHsHKT5p4LxN7gAX-9CO-qKI7z5NT0jyjdp4E0JLUpfUopJRCD8x2pqsINtOcqV0DrvLxU3l9LCqw4bGMPrTLXap1zdYdCcncs2HUIeUpT55J-UlkCRzgpcgy7mT6sxw9FEEwUwHohJwgnefEYnt_mygSQ6B1WB9ohMJrasmQn3rdnN43mEq1fTTjvbL1vCSsqhUoIs5yye3CfocdeWjlJUaAtWjtEBCon1E6GI8Ct9n1PyQiHYNwXmp59ORc3ijUJA&state=7d52da44-a19e-40e2-bae7-c4d6863e020d&ubi=CAIQjOeikYU0GiQwOWI1MjA5My01YTVlLTQwZjMtYjQxZi0yYWUyYWJiNzU5YjMiJDRmODAwN2UwLWM2MmEtNDE5ZC1iOGUxLWIyMDg3YTNiMWQxMzokNGY4MDA3ZTAtYzYyYS00MTlkLWI4ZTEtYjIwODdhM2IxZDEzQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 790ms
+ GET /connect?connected=spotify 200 in 104ms
+ GET /search 200 in 88ms
+ GET /api/search?q=lola 200 in 662ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 120ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 547ms
+ GET /connect 200 in 89ms
+ GET /api/auth/spotify 307 in 308ms
+[spotify callback] Spotify devolvió error: access_denied
+[spotify callback] Validación fallida → code: AUSENTE, state: presente, cookie state: presente, host: 127.0.0.1:3000, spotify_error: access_denied
+ GET /api/auth/spotify/callback?error=access_denied&state=1a86c79d-9dbd-416c-b4a4-a929e6a2aed3&ubi=CAIQmOWjkYU0GiQxM2NmNDEzZi1jNzI5LTQ3M2ItODFhYi0yOTQ3YjFkOTg3MjYiJDA2ZDkwZDljLTNmYjQtNDU4Mi1hNDNhLTIwYjQ5MjBkNWU2YTokMDZkOTBkOWMtM2ZiNC00NTgyLWE0M2EtMjBiNDkyMGQ1ZTZhQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 285ms
+ GET /connect?error=spotify_access_denied 200 in 114ms
+ GET /api/auth/spotify 307 in 278ms
+ GET /api/auth/spotify/callback?code=AQAUHVrav2pGWgUDN54UPKBUDR0IqILD0doOOk9fFGl1-UxDUV84IhRndfclci06ULr404XPRZwrlE3g0x3q5zPW3o9XDfutwYoZD9FJ_10qXai3EVQdTWjHdx34nsFFSViej07hBlKypqrRfUN5hGE3_JjPSMb1HylxDUklGw07bGrTc-8in-3E38Bb-Q7Lt6nSLAAkcDWtyF9PMTMJsQB7FV9ms-61KW7iMgeqHIc_bV0bEYEPVyKojFROZ5Akx4MPYckw48ABQvagcMgUxkqLLM13WgRJg8VKb_Q19YMWowV5IdPLVzRZxUzRtb3lQAo_t1dkB6F0xKYiSVCiMTfmMPBvOA&state=2edd9d05-9544-4f01-a78a-6f15d490af6d&ubi=CAIQ1YikkYU0GiRmMmNkMjU4OS1lN2EyLTRkNGEtOTcyNi03NWMwNGRkYTQzYzUiJGUxNzc4YzVhLTI5YzItNGRiYy05MmFlLThhMzE5ZWViZDI0ZjokZTE3NzhjNWEtMjljMi00ZGJjLTkyYWUtOGEzMTllZWJkMjRmQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 731ms
+ GET /connect?connected=spotify 200 in 117ms
+ GET /search 200 in 84ms
+ GET /api/search?q=lola 200 in 681ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 119ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 545ms
+ GET /search 200 in 89ms
+ GET /api/search?q=lola 200 in 574ms
+ GET /claim?claim=%7B%22type%22%3A%22track%22%2C%22spotifyId%22%3A%2254NQtnCL950bGIHlZUMMDH%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 112ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save track to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: [Promise]
+}
+ POST /api/library/save 409 in 668ms
+ ✓ Compiled middleware in 2ms
+ GET /claim?claim=%7B%22type%22%3A%22track%22%2C%22spotifyId%22%3A%2254NQtnCL950bGIHlZUMMDH%22%2C%22name%22%3A%22pa+ti+toa+%3C3%22%2C%22artist%22%3A%22Ana+Mena%2C+Lola+Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 141ms
+ GET /claim?claim=%7B%22type%22%3A%22track%22%2C%22spotifyId%22%3A%2254NQtnCL950bGIHlZUMMDH%22%2C%22name%22%3A%22pa+ti+toa+%3C3%22%2C%22artist%22%3A%22Ana+Mena%2C+Lola+Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 79ms
+ GET /search 200 in 111ms
+ GET /api/search?q=lola 200 in 837ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 190ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 785ms
+ GET /connect 200 in 122ms
+ GET /api/auth/spotify 307 in 312ms
+ GET /api/auth/spotify/callback?code=AQDGWfOsgsYGlF_-hADR1pINOW5USQT4alzf8a3UvALdV60cFArFw5BWj3fcyE51Rf7OZSFedlvzkNUvzNTxLc2jokJX6U0P19bDyTpwS-eZ5AUSjPW-bH81qkM9DAGYAPQWOzsHzx-Yi1L66fscXvmihyGjk2fDleqJlejSW6eeYUO6XgQg8MBVUftNb2BmpEoYPBviPG3wHUywnQwhAi7d1oTeZTZj4PWNXzSod7dvjian0VR6GID9bcjii99RX4U_aa36GBrNx-t1mmXUzIBKcbiynlg63QRXVLnzWNBRjvoLII6r3sbfawQNG6yAo_NBy7o8v7zPrP2mnxWdb0fOb07V4w&state=9ca5ffea-2ad7-4e8f-ab29-f8546b6c7a80&ubi=CAIQotLUkYU0GiRmNjE5MDdmMi1jYTdiLTQ2YWItYmY4Ni1lNzY1NDQ0Mzk1NjAiJDlmMDgzN2MxLTU2YjEtNGFiMy04NmQ5LTk0NTQxNGExMGQ2NDokOWYwODM3YzEtNTZiMS00YWIzLTg2ZDktOTQ1NDE0YTEwZDY0QhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 881ms
+ GET /connect?connected=spotify 200 in 111ms
+ GET /connect?connected=spotify 200 in 107ms
+ GET /api/auth/spotify 307 in 295ms
+ GET /api/auth/spotify/callback?code=AQBhhO5VUVEr01Gb2-JJUtXgxonjQUIqRB1PDTV41IXEcZ01xXE1bKUGiCuD1nW6z3xbUzQGEgphm-E56I7fdym8o4xuVvS94rlQ7goS_dkXodZE4RuX5kYeWMoRrD2mzMdcOnjDS6-8bRMEJnOZLiriUyX1FX8QUIc8gr1j0yiZhSppwjXFFZGwkpCmnyeBVjzUYvksFunM2PgOwSUHT_9EE_qlho0ksvQ5J62jdyR0Wj9Dqg3HN5nEGRLs8jsLKSW09JROnn31YBk2_uhnkSO3l-IfQS57GqEbJqlyFJaZV8yBure4OtNMeDhgYCorIF2PGL2wkyDhPvJYCAmkXUSz6ztdjQ&state=129bed8b-7429-4cea-916e-99f000afb631&ubi=CAIQ77fVkYU0GiRkOTg0NjY5MS02ZjJkLTRmMWQtOTQ5OC0xMmQzMzZhYmVhZTQiJGE1NjI1MGQ1LTgwN2ItNDA0OC1iYjFmLTQ3MTA0NWQ0NGQzNzokYTU2MjUwZDUtODA3Yi00MDQ4LWJiMWYtNDcxMDQ1ZDQ0ZDM3QhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 818ms
+ GET /connect?connected=spotify 200 in 100ms
+ GET /search 200 in 82ms
+ ✓ Compiled in 135ms
+ GET /api/search?q=lola 200 in 620ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 116ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 563ms
+ GET /search 200 in 147ms
+ GET /connect 200 in 91ms
+ ✓ Compiled in 155ms
+ GET /packs 200 in 106ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ✓ Compiled in 178ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 404 in 585ms
+ GET /search 200 in 83ms
+ GET /api/search?q=lol 200 in 730ms
+ GET /api/search?q=lola 200 in 695ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%2265gUW0rI0yrnYpZUSS4Us2%22%2C%22name%22%3A%22EL%20BACHAT%C3%93N%20DE%20LA%20L%22%2C%22artist%22%3A%22Lola%20Indigo%2C%20Lucho%20RK%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b90711be912b8f71d9ae6ebf%22%2C%22releaseYear%22%3A2026%7D 200 in 116ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 564ms
+ GET /search 200 in 89ms
+ GET /connect 200 in 150ms
+ ✓ Compiled in 193ms
+ ✓ Compiled /connect in 41ms
+ GET /connect 200 in 176ms
+ GET /connect 200 in 79ms
+ GET /connect 200 in 157ms
+ ✓ Compiled in 126ms
+ ✓ Compiled /api/auth/spotify/disconnect in 118ms
+ POST /api/auth/spotify/disconnect 200 in 629ms
+ GET /api/auth/spotify 307 in 286ms
+ GET /api/auth/spotify/callback?code=AQCgcqGwlM1P2hbN8tF2dJoJiVpSS_Mbp1XEAdtAOpxVGBgDtWNOLVwXIhf8zDo1UDtn9HuF30kyOjvHoi98wfZHPsEcH6YbwUnAhrigaMOgZ8oaVLW3jzMcselpw71t96_vz5AqLEXiqTarieAY3A1s7ab0rOkkAmyfm2-wQGddIwhhfCXM7dBH0Vc1irZvv30RCSWM7ole-AbTdDcdy3CLZ5aLNnQjmWMvvHudjItYlDKd1vBbsm-IxfjPVVeyMkbN3f-OdwbEzN_fas5uANNWpUH7JX6qzV1NHbL4Spa1CvJs4_K-Uk0VqvlQXqrBF23SHiBcHY4ScjAUCFaZZ9Gtylp4OA&state=4c71c8ae-8fa6-44ba-8c3c-8cd3921ec1de&ubi=CAIQo8DnkYU0GiRkZGQ3ODcxNi01MDg1LTRhYWQtODIyZi1iZDc5MjFiZTIxZmYiJDUxMDJiZTQ2LTg4OTAtNGMxZi1iMTY3LWZjZWFjMGNlMjhkMjokNTEwMmJlNDYtODg5MC00YzFmLWIxNjctZmNlYWMwY2UyOGQyQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 741ms
+ GET /connect?connected=spotify 200 in 233ms
+ GET /search 200 in 86ms
+ GET /api/search?q=lola 200 in 684ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 117ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 543ms
+ GET /search 200 in 96ms
+ GET /search 200 in 101ms
+ GET /api/search?q=lol 200 in 660ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 113ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 624ms
+ GET /search 200 in 146ms
+ GET /api/search?q=lola 200 in 631ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 105ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 678ms
+ GET /connect 200 in 84ms
+ POST /api/auth/spotify/disconnect 200 in 561ms
+ GET /api/auth/spotify 307 in 294ms
+ GET /api/auth/spotify/callback?code=AQCRVAo9XNmZfpFV52RrYhm5iOg-b4nOQ3o_6CDSo0cHxQe2xMiGdobV6FdY8s4okjftmxJFQJVniXDoqSzPXT7t4YSw0_kxEtsvRCR-gQwmaZy3J3daokeilKWqKdaWysoGcogRonUMEtZpFXjj6wYzViePnC1PpWhQ5Wr5pR8OsNLUKUaWRrRYajf9qDsraZtnKzt8gySJaz35g_j6joIvXYqBvUZsTMnHxL_kY7H1SDXecdNYT5PYJ4fPhKtj7TWathaWxbmitEhnzrViiGQER5z9Eck47BNZEqKtzKs5f1IGdID9I5KkQn20zXf39DMKGALvJqLtbP9YAGwDsjn6nDmPuA&state=29425b29-b796-4801-8fad-9f867ab48775&ubi=CAIQhbWMkoU0GiQ4ZTQ1MjIzYy1hNGI3LTQwNTUtOGY3OS01Yzk4NTc4YmViYTMiJDI1OGE4NjQ3LTMzNmItNDUyMC1hZjgzLTdjOGY1MTI2Yjc5NzokMjU4YTg2NDctMzM2Yi00NTIwLWFmODMtN2M4ZjUxMjZiNzk3QhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 900ms
+ GET /connect?connected=spotify 200 in 118ms
+ GET /search 200 in 92ms
+ GET /api/search?q=lola 200 in 805ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 118ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 552ms
+ GET /search 200 in 87ms
+ GET /api/search?q=lola 200 in 718ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%2265gUW0rI0yrnYpZUSS4Us2%22%2C%22name%22%3A%22EL%20BACHAT%C3%93N%20DE%20LA%20L%22%2C%22artist%22%3A%22Lola%20Indigo%2C%20Lucho%20RK%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b90711be912b8f71d9ae6ebf%22%2C%22releaseYear%22%3A2026%7D 200 in 116ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 555ms
+ GET /search 200 in 81ms
+ GET /connect 200 in 126ms
+ GET /api/auth/spotify 307 in 278ms
+ GET /api/auth/spotify/callback?code=AQBJW-QHhk4X5JW-o_jns2S8Uc9ojv9cvEk9JK6-jsPtO-fdyME6lpmiplBuwBIHz8yloPq4FYAmDGokgiG_xqQhZ8L3Y8uQnoi0WeCXI9TZImJ5qstUqyyth9d7LCE4CAO0hWpN1dPMRDOMuUc6KlbyrCjmGHKk1qZeqn0BANuVS2wto_yA4DHftTnMBDgh_fvmLx233UidN0wiG_CZMzZ_0fXrxNA1RUlYVHS3SFtwRH1-9swfY1-YT1Pbz-qTiK6CujmD5qIsYbgJfFO6ytCy8U2dwJ0tisum-7aa5bnEdJk4qsPJ1WEhUMnzFTUJHZvoYtZ8M2RTeVIR8W7Upv4EhRnhBw&state=b86c9ea4-2170-4f20-8a16-23c7e8b3af5e&ubi=CAIQzeuckoU0GiRjYjc0NzNlOS0zNzQ3LTRmMzUtOWE4Yy1iYTkwZjQ1NmU3NTgiJDU3MmUwM2EyLWMwYWYtNDI0ZS1hYzcxLTY4ODUxMTVlYjA4MDokNTcyZTAzYTItYzBhZi00MjRlLWFjNzEtNjg4NTExNWViMDgwQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 848ms
+ GET /connect?connected=spotify 200 in 95ms
+ GET /search 200 in 81ms
+ GET /api/search?q=lola 200 in 668ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 117ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 541ms
+ GET /connect 200 in 90ms
+ POST /api/auth/spotify/disconnect 200 in 505ms
+ GET /connect 200 in 111ms
+ GET /api/auth/spotify 307 in 304ms
+ GET /api/auth/spotify/callback?code=AQA7DsBJPqlRFWIS1hXstryn_tGTlr6WG6GkJ5H6-C_DbpjWj0Y19wOj9j-0gcwsu7E7sNtIvoDgPwxuc-aq3ULkWuTVpQShvBBtMEQ4vjTrAk5mJM2TObSL-pDOKR-gxuGlIWKzi9uEVBBsyb9TUv-0-70PUN1HcsoIb6VO_wEZfd-ZGxphfbA6yu4WLr8SaS0TcJCF0iMhFkNUQBSM7wgNWfw6XbrdoRU6l00voWil2FktC7RzyqQEPC7rT66FkbgGHa9cGGB6EC4n30CaZk0dGVWhkxb3vlQT3vv_DOaPU5ay_kfozBYdqNYucEGV9PDVrjSkJwa1DI9dlKZUcd5tnZmPYw&state=25e36b76-8c93-4f93-9832-ece4a5f3eafc&ubi=CAIQlf6dkoU0GiQxZWZlMzlmYy1jMDkwLTQxMjEtOTc3Ny0xMWE0ZDI3OWRiMzciJGU5YTg3YzQ5LTc1ZTEtNDAzYS1hZDYxLTMyMWM0MGJkZGViZjokZTlhODdjNDktNzVlMS00MDNhLWFkNjEtMzIxYzQwYmRkZWJmQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 781ms
+ GET /connect?connected=spotify 200 in 106ms
+ GET /search 200 in 82ms
+ GET /api/search?q=lola 200 in 659ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 107ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 525ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 119ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 543ms
+ GET /search 200 in 84ms
+ GET /api/search?q=loal 200 in 646ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 113ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 544ms
+ GET /search 200 in 96ms
+ GET /connect 200 in 155ms
+ POST /api/auth/spotify/disconnect 200 in 492ms
+ GET /api/auth/spotify 307 in 282ms
+ GET /api/auth/spotify/callback?code=AQB3Dn8hxQ1MeOvNI1EdAMdFdDYUqhJWT2aC-6RuVEpgN2AgCkVcc-hMQUfQjPbKATWWsw-Yqfoip0gwweNHyBV8dvvoxqO1VsxNpAcknvIfc08h9E38hVSqjYlivpo9ZZuP6zp7O7nLk8qbgxv1dIiV9DRZA3qm54-cgyYgxx-qXD3LKdfozNMl5oZPC08OZ4fZ_LjfWV5daQtFsuR910Ddcpn4MsmFa58qsYtIqx0fJFCfT6YXWsvmC5iFEqOkGO49S99weLQKmISJbnlVYStLVUtTzoyRfXensVarSXF5ylum0gOjlHfi9G0ZHLK1b_raHekPuSDl5D6MbhxDbx5kyciIHg&state=e25f0e95-9b59-4bd1-bb1a-1d94fcc1fa6a&ubi=CAIQ2dOmkoU0GiQ0ZjdiY2M2ZS01ZDQ1LTRmNGQtODcwZS1hZTYxZDAxMDEyZTYiJDczYWE2OGNlLWJjMDgtNGRiOC05NWM0LTc2MTJmOWE4NGY0NDokNzNhYTY4Y2UtYmMwOC00ZGI4LTk1YzQtNzYxMmY5YTg0ZjQ0QhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 894ms
+ GET /connect?connected=spotify 200 in 109ms
+ GET /search 200 in 82ms
+ GET /api/search?q=lol 200 in 664ms
+ GET /api/search?q=lola 200 in 595ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 112ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:174:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  172 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  173 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 174 |     const err: any = new Error(
+      |                      ^
+  175 |       `Failed to save ${type} to Spotify library (${res.status})`
+  176 |     );
+  177 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 562ms
+ GET /connect 200 in 120ms
+ POST /api/auth/spotify/disconnect 200 in 491ms
+ GET /api/auth/spotify 307 in 334ms
+[spotify callback] scopes concedidos: user-library-read user-library-modify user-read-email user-read-private | user: 11b228dd-081c-4523-85a9-c2721d804495 | provider_user_id: 0q054ga0xq0duqtoprljr6af3
+ GET /api/auth/spotify/callback?code=AQCR507Dm00MFOLGLw8K6DWAQGrySlsjFO9MJDkZtn_2dAHdz9jcE7or4REsWLc-3UB4MpiKxqBtAWEhi_gSNAPfouKu-hZM19m4MI_usDwz3XQSZb3G6ITmbyVSJU2FLJX20Jx04ts-i2fFnPpK9swcMBQzcFa3n83sZv9XS_KNw9HKXxYKS-yNbu5vSql4MFDp1YT6bKFx150z2PACHPgC1ypL7SSv_SDo1U8MIlvp5L3Uyj7FIIUj8Um87POIISVnj2cjUyWU4HQDaBnFkSUo-rMFq_DIN5zs-oM79C9Mi9a5V9m4AWpV5-hnaHA-EiN0VWVCyi9NsFTcmC8ppqelHlx_PA&state=a485e120-f501-4c77-8bdb-780247ceafea&ubi=CAIQpomxkoU0GiQ2MTBiYTZhMi1iZTk1LTQ1NDgtOWM3MS02N2MzZTkzMjM0ZTUiJDc1NDIxZGRjLTJlMGEtNGVmYS1hNTE0LWMxOWUxYjVkMTczYzokNzU0MjFkZGMtMmUwYS00ZWZhLWE1MTQtYzE5ZTFiNWQxNzNjQhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 805ms
+ GET /connect?connected=spotify 200 in 103ms
+ GET /search 200 in 83ms
+ GET /api/search?q=lol 200 in 841ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 111ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:177:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  175 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  176 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 177 |     const err: any = new Error(
+      |                      ^
+  178 |       `Failed to save ${type} to Spotify library (${res.status})`
+  179 |     );
+  180 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 633ms
+ GET /search 200 in 88ms
+ GET /api/search?q=lo 200 in 649ms
+ GET /api/search?q=lola 200 in 706ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 127ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:177:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  175 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  176 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 177 |     const err: any = new Error(
+      |                      ^
+  178 |       `Failed to save ${type} to Spotify library (${res.status})`
+  179 |     );
+  180 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 614ms
+ GET /connect 200 in 86ms
+ POST /api/auth/spotify/disconnect 200 in 463ms
+ GET /api/auth/spotify 307 in 294ms
+[spotify callback] scopes concedidos: user-library-read user-library-modify user-read-email user-read-private | user: 11b228dd-081c-4523-85a9-c2721d804495 | provider_user_id: 0q054ga0xq0duqtoprljr6af3
+ GET /api/auth/spotify/callback?code=AQDow5B338gcVbNP8MvGnKpNjvavsveD98WCGltNhrzoI-W5sin5JtEZ0K2qAHPlHM5t62aORSM5Zi2f4Ee2nwJbebiRP4Td7VycZ6VDM5eWu-D3weDrY8bEWM1yy-6_a7lil8eVZgjSNV1ULPwJ_Ialgw0Qahn2_KUlDZasekUw2cD-PHkVXCVH3Mf37sCQUZwmJxOh5XuiSXPZLhlZvxelqY1HgpNATu8QUMMNa8EbkBS0NxFVbZ2eAOdOFSLtRELIMBFP94zAs0lNeBxpeAJCtrqaEZ9G49YlR1zR81jtvqLSw9BAVapUpHKyZjqcFLEPY32dCjpPtAd0mAPJqQE0t_XoRA&state=68952659-e12a-41fc-8589-4a9a6d18fe74&ubi=CAIQ8N7MkoU0GiQ5ZGRhMTkzNS1jN2UzLTQ3ZDAtODE0ZS1jMzNjYjZjMzE4MGYiJDE5NWE3ZmNkLWZiYjEtNGNkMi04MTMwLWMwZTNhYzRkZjkxNjokMTk1YTdmY2QtZmJiMS00Y2QyLTgxMzAtYzBlM2FjNGRmOTE2QhB1c2VyX2ludGVyYWN0aW9uSiQ5ZTYxOTQ1Zi1jMDIxLTRiNGEtODE5MC0zYmQxMWQ1OGRmY2VQAA%3D%3D 307 in 768ms
+ GET /connect?connected=spotify 200 in 108ms
+ GET /search 200 in 88ms
+ GET /api/search?q=lola 200 in 686ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 105ms
+[api/library/save] Error guardando en Spotify: Error: Failed to save album to Spotify library (403)
+    at saveToSpotifyLibrary (src\lib\spotify\client.ts:177:22)
+    at async POST (src\app\api\library\save\route.ts:128:5)
+  175 |     // 403 en PUT /me/albums|tracks implica que el token carece del scope
+  176 |     // user-library-modify (no es "álbum ya guardado": eso devolvería 200/201).
+> 177 |     const err: any = new Error(
+      |                      ^
+  178 |       `Failed to save ${type} to Spotify library (${res.status})`
+  179 |     );
+  180 |     err.status = res.status; {
+  status: 403,
+  body: '{"error": {"status": 403, "message": "Forbidden" } }'
+}
+ POST /api/library/save 409 in 564ms
+ ✓ Compiled in 124ms
+ GET /claim 200 in 262ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 129ms
+ POST /api/library/save 409 in 879ms
+ GET /search 200 in 87ms
+ GET /api/search?q=lol 200 in 869ms
+ GET /api/search?q=lola 200 in 699ms
+ ✓ Compiled in 148ms
+ ✓ Compiled in 135ms
+ ✓ Compiled in 164ms
+ ✓ Compiled in 157ms
+ GET /claim 200 in 285ms
+ GET /search 200 in 93ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 110ms
+ POST /api/library/save 409 in 805ms
+ POST /api/library/save 200 in 1243ms
+ GET /collection 200 in 104ms
+ GET /collection 200 in 91ms
+ GET /search 200 in 86ms
+ ✓ Compiled / in 54ms
+ GET / 200 in 161ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /collection 200 in 84ms
+ GET /search 200 in 86ms
+ GET /api/search?q=lola 200 in 795ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%2265gUW0rI0yrnYpZUSS4Us2%22%2C%22name%22%3A%22EL%20BACHAT%C3%93N%20DE%20LA%20L%22%2C%22artist%22%3A%22Lola%20Indigo%2C%20Lucho%20RK%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273b90711be912b8f71d9ae6ebf%22%2C%22releaseYear%22%3A2026%7D 200 in 108ms
+ POST /api/library/save 200 in 1023ms
+ GET /collection 200 in 97ms
+ GET /packs 200 in 99ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 404 in 555ms
+ GET /search 200 in 87ms
+ GET / 200 in 93ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET / 200 in 250ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ✓ Compiled in 160ms
+ ✓ Compiled /collection in 50ms
+ GET /collection 200 in 259ms
+ ✓ Compiled / in 52ms
+ GET / 200 in 144ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ✓ Compiled /packs in 51ms
+ GET /packs 200 in 147ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ GET /collection 200 in 132ms
+ GET /search 200 in 121ms
+ ✓ Compiled /claim in 53ms
+ GET /claim 200 in 312ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 404 in 512ms
+ GET /search 200 in 103ms
+ GET /api/search?q=lol 200 in 604ms
+ GET /api/search?q=lola 200 in 644ms
+ GET / 200 in 181ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 126ms
+ POST /api/library/save 200 in 1079ms
+ GET /collection 200 in 138ms
+ ✓ Compiled in 134ms
+ ✓ Compiled in 134ms
+ GET / 200 in 279ms
+ GET /collection 200 in 273ms
+ GET / 200 in 98ms
+ GET / 200 in 98ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /collection 200 in 92ms
+ GET / 200 in 78ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET / 200 in 129ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /packs 200 in 162ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ GET /connect 200 in 115ms
+ GET / 200 in 98ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 126ms
+ GET / 200 in 95ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 83ms
+ GET /packs 200 in 82ms
+ GET /collection 200 in 96ms
+ GET /search 200 in 84ms
+ GET /collection 200 in 85ms
+ GET /collection 200 in 84ms
+ GET /search 200 in 84ms
+ GET /api/search?q=lol 200 in 818ms
+ GET /api/search?q=lola 200 in 571ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 281ms
+ POST /api/library/save 200 in 1044ms
+ GET /collection 200 in 92ms
+ GET /search 200 in 172ms
+ GET / 200 in 114ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 100ms
+ GET / 200 in 107ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 135ms
+ GET /api/search?q=lola 200 in 772ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 133ms
+ POST /api/library/save 200 in 1278ms
+ GET /collection 200 in 107ms
+ GET /search 200 in 105ms
+ GET /api/search?q=lola 200 in 684ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 139ms
+ POST /api/library/save 200 in 1087ms
+ GET /collection 200 in 93ms
+ GET /collection 200 in 94ms
+ GET /collection 200 in 101ms
+ GET /collection 200 in 95ms
+ GET /collection 200 in 94ms
+ GET /collection 200 in 99ms
+ GET /collection 200 in 412ms
+ GET /collection 200 in 108ms
+ GET /collection 200 in 99ms
+ GET /search 200 in 88ms
+ GET /api/search?q=lola 200 in 617ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 115ms
+ POST /api/library/save 200 in 888ms
+ GET /collection 200 in 90ms
+ GET /search 200 in 85ms
+ GET / 200 in 85ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 86ms
+ GET /search 200 in 102ms
+ GET /api/search?q=lola 200 in 700ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 116ms
+ POST /api/library/save 200 in 1212ms
+ GET /collection 200 in 89ms
+ GET /packs 200 in 84ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273cddd5eaa1a0155d0a0c16f6a 404
+ POST /api/vinyls/demo-vinyl-1/open 404 in 526ms
+ GET / 200 in 87ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET / 200 in 137ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /search 200 in 84ms
+ GET /search 200 in 118ms
+ GET /search 200 in 92ms
+ GET /collection 200 in 83ms
+ GET /collection 200 in 92ms
+ GET /collection 200 in 96ms
+ GET /collection 200 in 77ms
+ GET /collection 200 in 89ms
+ GET /collection 200 in 79ms
+ GET /collection 200 in 90ms
+ GET /collection 200 in 100ms
+ GET /collection 200 in 82ms
+ GET /collection 200 in 87ms
+ GET /collection 200 in 91ms
+ GET /collection 200 in 83ms
+ GET /collection 200 in 124ms
+ GET /search 200 in 91ms
+ GET / 200 in 84ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ✓ Compiled /api/auth/apple-music in 182ms
+ GET /api/auth/apple-music 307 in 469ms
+ GET /connect?info=apple_music_client_flow 200 in 114ms
+ GET / 200 in 122ms
+ ⨯ ./src/app/collection/page.tsx:7:1
+Module not found: Can't resolve '@/lib/motion'
+[0m [90m  5 |[39m [36mimport[39m { useCollection } [36mfrom[39m [32m"@/hooks/useCollection"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { motion } [36mfrom[39m [32m"framer-motion"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { fadeUp } [36mfrom[39m [32m"@/lib/motion"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mCollectionPage[39m() {
+ [90m 10 |[39m   [36mconst[39m { vinyls[33m,[39m loading[33m,[39m error[33m,[39m refetch } [33m=[39m useCollection()[33m;[39m[0m
+
+Import map: aliased to relative './src/lib/motion' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/collection/page.tsx [Client Component Browser]
+    ./src/app/collection/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/collection/page.tsx [Client Component SSR]
+    ./src/app/collection/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/collection/page.tsx:7:1
+Module not found: Can't resolve '@/lib/motion'
+[0m [90m  5 |[39m [36mimport[39m { useCollection } [36mfrom[39m [32m"@/hooks/useCollection"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { motion } [36mfrom[39m [32m"framer-motion"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { fadeUp } [36mfrom[39m [32m"@/lib/motion"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mCollectionPage[39m() {
+ [90m 10 |[39m   [36mconst[39m { vinyls[33m,[39m loading[33m,[39m error[33m,[39m refetch } [33m=[39m useCollection()[33m;[39m[0m
+
+Import map: aliased to relative './src/lib/motion' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/collection/page.tsx [Client Component Browser]
+    ./src/app/collection/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/collection/page.tsx [Client Component SSR]
+    ./src/app/collection/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/collection/page.tsx:7:1
+Module not found: Can't resolve '@/lib/motion'
+[0m [90m  5 |[39m [36mimport[39m { useCollection } [36mfrom[39m [32m"@/hooks/useCollection"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { motion } [36mfrom[39m [32m"framer-motion"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { fadeUp } [36mfrom[39m [32m"@/lib/motion"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mCollectionPage[39m() {
+ [90m 10 |[39m   [36mconst[39m { vinyls[33m,[39m loading[33m,[39m error[33m,[39m refetch } [33m=[39m useCollection()[33m;[39m[0m
+
+Import map: aliased to relative './src/lib/motion' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/collection/page.tsx [Client Component Browser]
+    ./src/app/collection/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/collection/page.tsx [Client Component SSR]
+    ./src/app/collection/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/collection/page.tsx:7:1
+Module not found: Can't resolve '@/lib/motion'
+[0m [90m  5 |[39m [36mimport[39m { useCollection } [36mfrom[39m [32m"@/hooks/useCollection"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { motion } [36mfrom[39m [32m"framer-motion"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { fadeUp } [36mfrom[39m [32m"@/lib/motion"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mCollectionPage[39m() {
+ [90m 10 |[39m   [36mconst[39m { vinyls[33m,[39m loading[33m,[39m error[33m,[39m refetch } [33m=[39m useCollection()[33m;[39m[0m
+
+Import map: aliased to relative './src/lib/motion' inside of [project]/
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/collection/page.tsx [Client Component Browser]
+    ./src/app/collection/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/collection/page.tsx [Client Component SSR]
+    ./src/app/collection/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ✓ Compiled in 237ms
+ ✓ Compiled in 125ms
+ GET / 200 in 89ms
+ ✓ Compiled middleware in 3ms
+ GET / 200 in 160ms
+ GET / 200 in 132ms
+ GET / 200 in 152ms
+ GET / 200 in 89ms
+ GET / 200 in 85ms
+ GET /search 200 in 95ms
+ GET / 200 in 82ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /search 200 in 82ms
+ ✓ Compiled /collection in 48ms
+ GET /collection 200 in 146ms
+ ✓ Compiled in 143ms
+ GET / 200 in 166ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ✓ Compiled in 169ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 147ms
+ GET / 200 in 398ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /collection 200 in 82ms
+ GET /connect 200 in 149ms
+ GET /collection 200 in 80ms
+ GET /search 200 in 84ms
+ GET / 200 in 77ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ GET /connect 200 in 88ms
+ GET / 200 in 84ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ ✓ Compiled in 126ms
+ ✓ Compiled in 173ms
+ ✓ Compiled in 171ms
+ GET / 200 in 126ms
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b2738b52f5f9a8e56396c4b2b0c 404
+ ⨯ upstream image response failed for https://i.scdn.co/image/ab67616d0000b273ec063ec225471ef777279209 404
+ GET /collection 200 in 83ms
+ ✓ Compiled in 179ms
+ ✓ Compiled /collection in 59ms
+ GET /collection 200 in 183ms
+ GET /collection 200 in 105ms
+ GET /collection 200 in 94ms
+ GET /collection 200 in 93ms
+ GET /collection 200 in 93ms
+ GET /collection 200 in 83ms
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/layout/MotionProvider'
+[0m [90m 2 |[39m [36mimport[39m { [33mBottomNav[39m } [36mfrom[39m [32m"@/components/layout/BottomNav"[39m[33m;[39m
+ [90m 3 |[39m [36mimport[39m { [33mTopNavbar[39m } [36mfrom[39m [32m"@/components/layout/TopNavbar"[39m[33m;[39m
+[31m[1m>[22m[39m[90m 4 |[39m [36mimport[39m { [33mMotionProvider[39m } [36mfrom[39m [32m"@/components/layout/MotionProvider"[39m[33m;[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 5 |[39m [36mimport[39m [32m"./globals.css"[39m[33m;[39m
+ [90m 6 |[39m
+ [90m 7 |[39m [36mexport[39m [36mconst[39m metadata[33m:[39m [33mMetadata[39m [33m=[39m {[0m
+
+Import map: aliased to relative './src/components/layout/MotionProvider' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ✓ Compiled in 630ms
+ ✓ Compiled in 593ms
+ ✓ Compiled /collection in 85ms
+ GET /collection 200 in 234ms
+ GET /collection 200 in 419ms
+ ✓ Compiled in 168ms
+ GET /collection 200 in 100ms
+ ✓ Compiled in 163ms
+ ✓ Compiled in 167ms
+ ✓ Compiled in 145ms
+ GET /collection 200 in 180ms
+ ✓ Compiled in 169ms
+ ✓ Compiled / in 80ms
+ GET / 200 in 330ms
+ GET /collection 200 in 363ms
+ ✓ Compiled /connect in 50ms
+ GET /connect 200 in 269ms
+ ✓ Compiled /_not-found/page in 260ms
+ GET /packs 404 in 351ms
+ GET /collection 200 in 97ms
+ ✓ Compiled /login in 55ms
+ GET /login 200 in 156ms
+ GET /login 200 in 90ms
+ GET /auth/callback?code=248ecd39-855a-4790-88df-3cb369d503fb 307 in 534ms
+ GET / 200 in 119ms
+ ✓ Compiled /search in 49ms
+ GET /search 200 in 143ms
+ GET /api/search?q=lol 200 in 789ms
+ ✓ Compiled /claim in 49ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%222QVvlMjlbV445e9a5y2obD%22%2C%22name%22%3A%22pa%20ti%20toa%20%3C3%22%2C%22artist%22%3A%22Ana%20Mena%2C%20Lola%20Indigo%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2738b3a60fa528510d0e3a4fca3%22%2C%22releaseYear%22%3A2026%7D 200 in 311ms
+ POST /api/library/save 200 in 951ms
+ GET /collection 200 in 89ms
+ ✓ Compiled in 143ms
+ ✓ Compiled in 127ms
+ GET /collection 200 in 324ms
+ ✓ Compiled in 149ms
+ ✓ Compiled in 126ms
+ ✓ Compiled in 145ms
+ ✓ Compiled /collection in 45ms
+ GET /collection 200 in 150ms
+ GET /collection 200 in 98ms
+ GET /collection 200 in 90ms
+ ✓ Compiled in 148ms
+ ✓ Compiled in 141ms
+ ✓ Compiled / in 43ms
+ GET / 200 in 287ms
+ GET /collection 200 in 286ms
+ ✓ Compiled in 169ms
+ GET / 200 in 142ms
+ GET /collection 200 in 146ms
+ GET /search?q=maria+becerra 200 in 98ms
+ GET /api/search?q=mar 200 in 670ms
+ GET /api/search?q=maria%20becerrra 200 in 760ms
+ ✓ Compiled /claim in 47ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%227HAGBrolfsdX5RVRNl5SdQ%22%2C%22name%22%3A%22As%C3%AD%22%2C%22artist%22%3A%22Abraham%20Mateo%2C%20Maria%20Becerra%2C%20Big%20One%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2731d038c0d16271703395bbbf8%22%2C%22releaseYear%22%3A2026%7D 200 in 343ms
+ POST /api/library/save 200 in 1128ms
+ GET /collection 200 in 85ms
+ GET /collection 200 in 152ms
+ GET /collection 200 in 136ms
+ GET /collection 200 in 130ms
+ GET /search 200 in 84ms
+ GET /api/search?q=maria 200 in 657ms
+ GET /api/search?q=maria%20becerra 200 in 595ms
+ GET /claim?claim=%7B%22type%22%3A%22album%22%2C%22spotifyId%22%3A%223LDuV7uzY3d1YJWmjrc4Ql%22%2C%22name%22%3A%22QUIMERA%22%2C%22artist%22%3A%22Maria%20Becerra%22%2C%22coverUrl%22%3A%22https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273e7f9be224ecc91e1ddf3e6f2%22%2C%22releaseYear%22%3A2025%7D 200 in 120ms
+ POST /api/library/save 200 in 1010ms
+ GET /collection 200 in 89ms
